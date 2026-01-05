@@ -41,3 +41,38 @@ This page provides access to research papers produced by the Holstonia Bigfoot I
 *Non-diagnostic video exemplars and calibration controls*  
 [View on Google Drive](https://drive.google.com/open?id=1H0zexRp_VtoOtG6ExogRb7o0I5mQ7mN8&usp=drive_fs)
 
+## How to Cite These Papers
+
+Papers published under *Holstonia Bigfoot Investigations* are released as stable public
+documents and may be updated periodically to correct errors, clarify methods,
+or incorporate additional references.
+
+When citing a paper, please include:
+- Author
+- Year
+- Paper title
+- Version number (if applicable)
+- URL accessed
+
+### Example citation (APA-style)
+
+Kegley, D. (2025). *From presence-only reports to testable inference: A monitoring framework for rare and elusive species* (Version 1.0). Holstonia Bigfoot Investigations. https://holstonia.org/research
+
+If citing a specific paper, use the direct document link when available.
+
+### Versioning
+
+Minor revisions that do not affect conclusions are issued as point updates
+(e.g., v1.1, v1.2). Substantive revisions are released as new major versions
+(e.g., v2.0) and are clearly indicated in the document.
+
+Earlier versions may remain accessible for transparency.
+
+
+
+
+
+
+
+
+
