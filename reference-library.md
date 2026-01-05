@@ -8,8 +8,6 @@
  
 # Reference Library
 
-Tlayout: page
-title: Reference Library
 permalink: /reference-library/
 ---
 
