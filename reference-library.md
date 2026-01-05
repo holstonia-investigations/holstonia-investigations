@@ -10,7 +10,7 @@
 
 ## Purpose and Scope
 
-The Holstonia Reference Library is a curated archive of audio, video, documentary, and analytical materials retained for comparative evaluation in the study of reported anomalous biological phenomena commonly referred to as “Bigfoot.” Materials included here support methodological calibration, pattern recognition, and transparency across Holstonia Bigfoot Investigations.
+The Holstonia Reference Library is a curated archive of audio, video, documentary, and analytical materials retained for comparative evaluation in the study of reported anomalous biological phenomena commonly referred to as “Bigfoot.” Materials included here support methodological calibration, pattern recognition, and transparency across Holstonia Bigfoot Investigations. Media files are hosted in an external archival repository (Google Drive) to ensure stability and accommodate large file sizes.
 
 Inclusion in this library **does not imply authenticity, biological attribution, or evidentiary sufficiency**. Many items lack verified provenance, are incomplete, or are subject to compression, reposting, or contextual loss. They are retained strictly for reference, comparison, and methodological development.
 
