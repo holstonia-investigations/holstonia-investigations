@@ -1,12 +1,12 @@
 <nav class="site-nav">
   <ul>
-    <li><a href="/methods/">Methods & Framework</a></li>
-    <li><a href="/about/">About & Scope</a></li>
-    <li><a href="/research/">Research Papers</a></li>
-    <li><a href="/reference-library/">Reference Library</a></li>
-    <li><a href="/media/">Media & FAQ</a></li>
-    <li><a href="/contact/">Contact</a></li>
-    <li><a href="/changelog/">Changelog & Updates</a></li>
+    <li><a href="{{ '/methods/' | relative_url }}">Methods & Framework</a></li>
+    <li><a href="{{ '/about/' | relative_url }}">About & Scope</a></li>
+    <li><a href="{{ '/research/' | relative_url }}">Research Papers</a></li>
+    <li><a href="{{ '/reference-library/' | relative_url }}">Reference Library</a></li>
+    <li><a href="{{ '/media/' | relative_url }}">Media & FAQ</a></li>
+    <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+    <li><a href="{{ '/changelog/' | relative_url }}">Changelog & Updates</a></li>
   </ul>
 </nav>
 
