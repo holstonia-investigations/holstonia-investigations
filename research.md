@@ -49,6 +49,8 @@ This page provides access to research papers produced by the Holstonia Bigfoot I
 *Non-diagnostic video exemplars and calibration controls*  
 [View on Google Drive](https://drive.google.com/open?id=1H0zexRp_VtoOtG6ExogRb7o0I5mQ7mN8&usp=drive_fs)
 
+### Paper 11 - Monograph: Applying Science to Reports of Anomalous Biological Phenomena
+[View on Google Drive]([View on Google Drive](https://drive.google.com/open?id=1H0zexRp_VtoOtG6ExogRb7o0I5mQ7mN8&usp=drive_fs)
 ## How to Cite These Papers
 
 Papers published under *Holstonia Bigfoot Investigations* are released as stable public
