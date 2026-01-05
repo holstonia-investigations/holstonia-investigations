@@ -1,4 +1,3 @@
-<nav>
 [About](/about) ·
 [Methods](/methods) ·
 [Research](/research) ·
@@ -6,7 +5,7 @@
 [Media](/media-faq) ·
 [Contact](/contact) ·
 [Changelog](/changelog)
-</nav>
+
 # Changelog & Updates
 
 This page documents substantive updates to the Holstonia Bigfoot Investigations
