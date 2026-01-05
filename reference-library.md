@@ -63,10 +63,68 @@ Materials in this section may be used for:
 
 ### Current Inclusions
 
-- **Unverified bipedal walking clips (social media reposts)**  
-  *Source:* TikTok / Facebook (reposted and compressed)  
+## Acoustic Reference Library — Current Inclusions
+
+- **AR-A001 — Kentucky High-Energy Anomalous Whoop Calls**  
+  *Modality:* Audio  
+  *Geographic context:* Kentucky  
   *Status:* Non-diagnostic  
-  *Notes:* Retained for comparative gait reference only; provenance unverified.
+  *Primary classification:* Whoop  
+  *Notes:* Short-duration, high-energy, impulsive vocalizations retained for comparative reference.  
+  *File:* [AR-A001_Kentucky_High_Energy_Anomalous_Whoop_Calls.mp3](#)
+
+---
+
+- **AR-A002 — Kentucky Multi-Modal Anomalous Vocal Signals**  
+  *Modality:* Audio  
+  *Geographic context:* Kentucky  
+  *Status:* Non-diagnostic  
+  *Primary classification:* Multi-modal  
+  *Secondary classification:* Howl-like (partial)  
+  *Notes:* Recording contains multiple vocal forms across its duration, including sustained, pitch-modulated segments. Designated multi-modal due to mixed signal structure.  
+  *File:* [AR-A002_Kentucky_Anomalous_Vocal_Signals.mp3](#)
+
+---
+
+- **AR-A003 — Ohio Sustained Anomalous Howl-Like Vocalizations**  
+  *Modality:* Audio  
+  *Geographic context:* Ohio  
+  *Status:* Non-diagnostic  
+  *Primary classification:* Howl-like  
+  *Notes:* Long-duration, sustained vocalizations exhibiting continuous or stepwise pitch modulation.  
+  *File:* [AR-A003_Ohio_Sustained_Anomalous_Howl-Like_Vocalizations.mp3](#)
+
+---
+
+- **AR-A004 — Appalachian Sustained Anomalous Howl Series (Morrison)**  
+  *Modality:* Audio  
+  *Geographic context:* Appalachian region  
+  *Status:* Non-diagnostic  
+  *Primary classification:* Howl-like  
+  *Notes:* Series of repeated sustained vocalizations attributed to a single contributor; retained for pattern comparison across multiple events.  
+  *File:* [AR-A004_Appalachian_Sustained_Anomalous_Howl_Series_Morrison.mp3](#)
+
+---
+
+- **AR-A005 — Documentary-Source Anomalous Vocalization Excerpt (Area A)**  
+  *Modality:* Audio  
+  *Source context:* Documentary excerpt  
+  *Status:* Non-diagnostic  
+  *Primary classification:* Howl-like  
+  *Notes:* Edited audio segment derived from documentary production; retained for comparative reference with field recordings.  
+  *File:* [AR-A005_Documentary_Source_Anomalous_Vocalization_Excerpt_Area_A.mp3](#)
+
+---
+
+## Visual and Gait Reference Library — Current Inclusions
+
+- **VR-G001 — Unverified Bipedal Locomotion Gait Sequence (Reposted)**  
+  *Modality:* Video  
+  *Source context:* Social media repost  
+  *Status:* Non-diagnostic  
+  *Primary focus:* Gait and posture  
+  *Notes:* Sharpened reposted footage retained solely for comparative analysis of bipedal locomotion characteristics. Provenance unverified.  
+  *File:* [VR-G001_Unverified_Bipedal_Locomotion_Gait_Sequence_Reposted.mp4](#)
 
 Additional materials may be added as they are evaluated and categorized.
 
@@ -101,3 +159,5 @@ Holstonia Bigfoot Investigations is committed to maintaining a clear boundary be
 Claims require convergent evidence.  
 Absence of evidence is acknowledged.  
 Uncertainty is preserved where warranted.
+
+
