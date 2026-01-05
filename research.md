@@ -32,7 +32,14 @@ A framework for evaluating reported anomalous vocalizations using bioacoustic pr
 - Format: PDF / DOCX
 - Access: [View on Google Drive](https://drive.google.com/open?id=1e5CzoQUZK5UVoUH7ZZaxrZsAPc8CDR-W&usp=drive_fs)
 ---
-
+### Paper 4  
+**Conservation Biology, Ethics, and Human Dimensions of a Relict Homo Species**  
+The paper argues that a conservation-first approach is warranted even in the
+absence of formal recognition.
+- Status: Public release
+- Format: PDF / DOCX
+- Access: [View on Google Drive](https://drive.google.com/open?id=1ZAJkpHNtS1RmR1drhBOtKucXt8yRUZVB&usp=drive_fs)
+ 
 Additional papers are added incrementally as analysis is completed and documentation is finalized.
 We’ll replace the summaries with:
 
