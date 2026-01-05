@@ -1,14 +1,10 @@
-<nav class="site-nav">
-  <ul>
-    <li><a href="{{ '/methods/' | relative_url }}">Methods & Framework</a></li>
-    <li><a href="{{ '/about/' | relative_url }}">About & Scope</a></li>
-    <li><a href="{{ '/research/' | relative_url }}">Research Papers</a></li>
-    <li><a href="{{ '/reference-library/' | relative_url }}">Reference Library</a></li>
-    <li><a href="{{ '/media/' | relative_url }}">Media & FAQ</a></li>
-    <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
-    <li><a href="{{ '/changelog/' | relative_url }}">Changelog & Updates</a></li>
-  </ul>
-</nav>
+- [Methods & Framework](./methods)
+- [About & Scope](./about)
+- [Research Papers](./research)
+- [Reference Library](./reference-library)
+- [Media & FAQ](./media)
+- [Contact](./contact)
+- [Changelog & Updates](./changelog)
 
 Holstonia Bigfoot Investigations is an independent, method-driven research project concerned with the systematic examination of anomalous biological reports associated with the relict hominin hypothesis, undertaken without presuming the existence of an unverified species and grounded instead in the evaluation of claims, observations, and datasets through established principles drawn from ecology, ethology, anthropology, and field biology.
 
