@@ -1,7 +1,7 @@
  [About](/about) ·
 [Methods](/methods) ·
 [Research](/research) ·
-[References](/reference-library) ·
+[Reference Library](/reference-library) ·
 [Media](/media-faq) ·
 [Contact](/contact) ·
 [Changelog](/changelog)
