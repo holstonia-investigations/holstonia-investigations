@@ -20,7 +20,9 @@ A methodological overview establishing analytical standards, inference boundarie
 ### Paper 2  
 **From Presence-Only Reports to Testable Inference: A Monitoring Framework for Rare and Elusive Species**  
 An examination of presence-only data models and their application to anomalous biological reporting.
-
+- Status: Public release
+- Format: PDF / DOCX
+- Access: [View on Google Drive]([PASTE_DRIVE_LINK_HERE](https://drive.google.com/open?id=1uFehpmLGSmdejVBZsS72wsw8zqq3OsRq&usp=drive_fs))
 ---
 
 ### Paper 3  
