@@ -39,6 +39,14 @@ absence of formal recognition.
 - Status: Public release
 - Format: PDF / DOCX
 - Access: [View on Google Drive](https://drive.google.com/open?id=1ZAJkpHNtS1RmR1drhBOtKucXt8yRUZVB&usp=drive_fs)
+
+### Paper 5  
+**Evolutionary Scenarios for a Relict Homo Species**  
+This analysis provides a theoretical foundation for future genetic, paleoanthropological, and comparative
+investigations.
+- Status: Public release
+- Format: PDF / DOCX
+- Access: [View on Google Drive](https://drive.google.com/open?id=11deHx8Q4n7IPtQQDfvN3_hCdta32tKGu&usp=drive_fs)
  
 Additional papers are added incrementally as analysis is completed and documentation is finalized.
 We’ll replace the summaries with:
