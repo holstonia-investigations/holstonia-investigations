@@ -1,7 +1,3 @@
----
-title: Reference Library
----
-
 # Reference Library
 
 This page indexes non-diagnostic reference materials used for comparative analysis in Holstonia Bigfoot Investigations.
