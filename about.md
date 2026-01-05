@@ -1,3 +1,12 @@
+<nav>
+[About](/about) ·
+[Methods](/methods) ·
+[Research](/research) ·
+[References](/reference-library) ·
+[Media](/media-faq) ·
+[Contact](/contact) ·
+[Changelog](/changelog)
+</nav>
 # About Holstonia Bigfoot Investigations
 
 **Holstonia Bigfoot Investigations (HBI)** is an independent research initiative
