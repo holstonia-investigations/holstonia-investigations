@@ -1,3 +1,12 @@
+<nav>
+[About](/about) ·
+[Methods](/methods) ·
+[Research](/research) ·
+[References](/reference-library) ·
+[Media](/media-faq) ·
+[Contact](/contact) ·
+[Changelog](/changelog)
+</nav>
 # Media & Frequently Asked Questions
 
 This page addresses common questions about Holstonia Bigfoot Investigations (HBI),
