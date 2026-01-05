@@ -28,6 +28,9 @@ An examination of presence-only data models and their application to anomalous b
 ### Paper 3  
 **Acoustic Anomalies in Remote Environments: Reference Libraries, Signal Triage, and Comparative Analysis**  
 A framework for evaluating reported anomalous vocalizations using bioacoustic principles and exclusionary comparison.
+- Status: Public release
+- Format: PDF / DOCX
+- Access: [View on Google Drive]([PASTE_DRIVE_LINK_HERE](https://drive.google.com/open?id=1e5CzoQUZK5UVoUH7ZZaxrZsAPc8CDR-W&usp=drive_fs)
 
 ---
 
