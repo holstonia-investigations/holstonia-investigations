@@ -71,7 +71,7 @@ Materials in this section may be used for:
   *Status:* Non-diagnostic  
   *Primary classification:* Whoop  
   *Notes:* Short-duration, high-energy, impulsive vocalizations retained for comparative reference.  
-  *File:* [AR-A001_Kentucky_High_Energy_Anomalous_Whoop_Calls.mp3](/assets/reference-library/audio/AR-A001_Kentucky_High_Energy_Anomalous_Whoop_Calls.mp3)
+  *File:* [AR-A001_Kentucky_High_Energy_Anomalous_Whoop_Calls.mp3](https://drive.google.com/open?id=1AiUC9tnWXk_swS9LiDk7Y2WcM7Ba9Oez&usp=drive_fs)
   
 ---
 
@@ -82,7 +82,7 @@ Materials in this section may be used for:
   *Primary classification:* Multi-modal  
   *Secondary classification:* Howl-like (partial)  
   *Notes:* Recording contains multiple vocal forms across its duration, including sustained, pitch-modulated segments. Designated multi-modal due to mixed signal structure.  
-  *File:* [AR-A002_Kentucky_Anomalous_Vocal_Signals.mp3](/assets/reference-library/audio/AR-A002_Kentucky_Anomalous_Vocal_Signals.mp3)
+  *File:* [AR-A002_Kentucky_Anomalous_Vocal_Signals.mp3](https://drive.google.com/open?id=1zlT0Owem06Ja52bdVPxXYJscrqq6hYvp&usp=drive_fs)
 
 ---
 
@@ -92,7 +92,7 @@ Materials in this section may be used for:
   *Status:* Non-diagnostic  
   *Primary classification:* Howl-like  
   *Notes:* Long-duration, sustained vocalizations exhibiting continuous or stepwise pitch modulation.  
-  *File:* [AR-A003_Ohio_Sustained_Anomalous_Howl-Like_Vocalizations.mp3](/assets/reference-library/audio/AR-A003_Ohio_Sustained_Anomalous_Howl_Like_Vocalizations.mp3)
+  *File:* [AR-A003_Ohio_Sustained_Anomalous_Howl-Like_Vocalizations.mp3](https://drive.google.com/open?id=1MTdvoiQEphb1XyfmkjUsMGprgjgYo9KQ&usp=drive_fs)
 
 ---
 
@@ -102,7 +102,7 @@ Materials in this section may be used for:
   *Status:* Non-diagnostic  
   *Primary classification:* Howl-like  
   *Notes:* Series of repeated sustained vocalizations attributed to a single contributor; retained for pattern comparison across multiple events.  
-  *File:* [AR-A004_Appalachian_Sustained_Anomalous_Howl_Series_Morrison.mp3](/assets/reference-library/audio/AR-A004_Appalachian_Sustained_Anomalous_Howl_Series_Morrison.mp3)
+  *File:* [AR-A004_Appalachian_Sustained_Anomalous_Howl_Series_Morrison.mp3](https://drive.google.com/open?id=1vYcdp4cjamCpCDlJ3LUvALtCFsEEIiwN&usp=drive_fs)
 
 ---
 
@@ -112,7 +112,7 @@ Materials in this section may be used for:
   *Status:* Non-diagnostic  
   *Primary classification:* Howl-like  
   *Notes:* Edited audio segment derived from documentary production; retained for comparative reference with field recordings.  
-  *File:* [AR-A005_Documentary_Source_Anomalous_Vocalization_Excerpt_Area_A.mp3](AR-005_Documentary_Source_Anomalous_Vocalization_Excerpt_Area_A.mp3)
+  *File:* [AR-A005_Documentary_Source_Anomalous_Vocalization_Excerpt_Area_A.mp3](https://drive.google.com/open?id=1FHWBEpnnpkufvN5ClON6l3Ns4mJK7iJ4&usp=drive_fs)
 ---
 
 ## Visual and Gait Reference Library — Current Inclusions
@@ -123,7 +123,7 @@ Materials in this section may be used for:
   *Status:* Non-diagnostic  
   *Primary focus:* Gait and posture  
   *Notes:* Sharpened reposted footage retained solely for comparative analysis of bipedal locomotion characteristics. Provenance unverified.  
-  *File:* [VR-G001_Unverified_Bipedal_Locomotion_Gait_Sequence_Reposted.mp4](/assets/reference-library/video/VR-G001_Unverified_Bipedal_Locomotion_Gait_Sequence_Reposted.mp4)
+  *File:* [VR-G001_Unverified_Bipedal_Locomotion_Gait_Sequence_Reposted.mp4](https://drive.google.com/open?id=1BneFTqNnqjqqfWCDgPfCg7cGmDLK5-cA&usp=drive_fs)
 
 Additional materials may be added as they are evaluated and categorized.
 
