@@ -1,5 +1,3 @@
-## Site Sections
-
 - [Methods & Framework](/methods)
 - [About & Scope](/about)
 - [Research Papers](/research)
