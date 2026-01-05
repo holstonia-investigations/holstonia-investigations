@@ -7,6 +7,7 @@ Holstonia Bigfoot Investigations is an independent research initiative examining
 - [Methods & Framework](/methods)
 - [Research Papers](/research)
 - Reference Library (forthcoming)
+_Last updated: January 2026_
 ## What This Project Is
 
 - A structured, method-driven examination of reported biological anomalies
