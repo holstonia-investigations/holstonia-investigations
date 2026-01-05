@@ -1,21 +1,11 @@
 ## Published Papers
-
+This page provides access to research papers produced by the Holstonia Bigfoot Investigations. Papers are numbered sequentially and made available as they reach a stable, review-ready state. Earlier versions may be revised as methods, data, or contextual understanding evolve.
 ### Paper 1 — From Presence-Only Reports to Testable Inference  
 *A monitoring framework for rare and elusive species*
 
 - Status: Public release
 - Format: PDF / DOCX
 - Access: [View on Google Drive](https://drive.google.com/open?id=1dgdidH1yDIKysyHcRaVmil5aiHapVBT5&usp=drive_fs)
-
-This page provides access to research papers produced under the Holstonia Bigfoot Investigations project. Papers are numbered sequentially and made available as they reach a stable, review-ready state. Earlier versions may be revised as methods, data, or contextual understanding evolve.
-
-## Paper Series
-
-### Paper 1  
-**Evaluating Anomalous Biological Claims: Method, Evidence, and Inference in the Study of Bigfoot**  
-A methodological overview establishing analytical standards, inference boundaries, and evidentiary constraints in the evaluation of anomalous biological reports.
-
----
 
 ### Paper 2  
 **From Presence-Only Reports to Testable Inference: A Monitoring Framework for Rare and Elusive Species**  
@@ -38,7 +28,7 @@ The paper argues that a conservation-first approach is warranted even in the
 absence of formal recognition.
 - Status: Public release
 - Format: PDF / DOCX
-- Access: [View on Google Drive](https://drive.google.com/open?id=1ZAJkpHNtS1RmR1drhBOtKucXt8yRUZVB&usp=drive_fs)
+- Access: [View on Google Drive](https://drive.google.com/open?id=1zD7lPvMsv4-cvjXg3jP6p31KbHciKdCC&usp=drive_fs)
 
 ### Paper 5  
 **Evolutionary Scenarios for a Relict Homo Species**  
