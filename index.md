@@ -1,10 +1,10 @@
 ## Site Sections
 
 - [Methods & Framework](/methods)
+- [About & Scope](/about)
 - [Research Papers](/research)
 - [Reference Library](/reference-library)
 - [Media & FAQ](/media-faq)
-- [About & Scope](/about)
 - [Contact](/contact)
 - [Changelog & Updates](/changelog)
 
