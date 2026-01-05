@@ -5,7 +5,7 @@ Holstonia Bigfoot Investigations adopts a conservative, method-driven approach t
 
 - [Methods & Framework](/methods)
 - Research Papers (forthcoming)
-- Reference Library (forthcoming)
+- [Reference Library](./reference-library)
 ## Guiding Principles
 
 This work is guided by the following principles:
