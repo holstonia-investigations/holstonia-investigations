@@ -68,7 +68,6 @@ separating plausibility arguments from confirmation claims.
 - Status: Public release
 - Format: PDF / DOCX
 - Access: [View on Google Drive](https://drive.google.com/open?id=1-nTNYAjtMSlXQtuf-ziWJbQ2e55WLo4D&usp=drive_fs)
-Additional papers are added incrementally as analysis is completed and documentation is finalized.
 
 ### Paper 10  
 **SComparative Gait and Behavioral Analysis of an Ambiguous Bipedal Video Clip in Relation to the Patterson–Gimlin Film**  
@@ -78,4 +77,4 @@ This paper examines a short, low-resolution bipedal walking clip circulating acr
 - Access: [View on Google Drive](https://drive.google.com/open?id=1H0zexRp_VtoOtG6ExogRb7o0I5mQ7mN8&usp=drive_fs)
 
 
-
+Additional papers are added incrementally as analysis is completed and documentation is finalized.
