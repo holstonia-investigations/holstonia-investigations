@@ -1,4 +1,11 @@
-# Research Papers
+## Published Papers
+
+### Paper 1 — From Presence-Only Reports to Testable Inference  
+*A monitoring framework for rare and elusive species*
+
+- Status: Public release
+- Format: PDF / DOCX
+- Access: [View on Google Drive](https://drive.google.com/open?id=1dgdidH1yDIKysyHcRaVmil5aiHapVBT5&usp=drive_fs)
 
 This page provides access to research papers produced under the Holstonia Bigfoot Investigations project. Papers are numbered sequentially and made available as they reach a stable, review-ready state. Earlier versions may be revised as methods, data, or contextual understanding evolve.
 
