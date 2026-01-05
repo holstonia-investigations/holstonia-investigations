@@ -1,3 +1,12 @@
+<nav>
+[About](/about) ·
+[Methods](/methods) ·
+[Research](/research) ·
+[References](/reference-library) ·
+[Media](/media-faq) ·
+[Contact](/contact) ·
+[Changelog](/changelog)
+</nav>
 ## Published Papers
 This page provides access to research papers produced by the Holstonia Bigfoot Investigations. Papers are numbered sequentially and made available as they reach a stable, review-ready state. Earlier versions may be revised as methods, data, or contextual understanding evolve.
 
