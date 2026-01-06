@@ -51,6 +51,7 @@ This page provides access to research papers produced by the Holstonia Bigfoot I
 
 ### Paper 11 — Monograph: Applying Science to Reports of Anomalous Biological Phenomena
 [View on Google Drive](https://drive.google.com/open?id=1qdGJfjKUcJCoB31pSVdmLsSubv3FIeWx&usp=drive_fs)
+
 ## How to Cite These Papers
 
 Papers published under *Holstonia Bigfoot Investigations* are released as stable public
