@@ -1,3 +1,8 @@
+<div class="site-logo">
+  <img src="/assets/images/holstonia-logo.png"
+       alt="Holstonia Bigfoot Investigations — From Anomaly to Analysis">
+</div>
+
 - [Methods & Framework](./methods)
 - [About & Scope](./about)
 - [Research Papers](./research)
