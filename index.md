@@ -1,5 +1,5 @@
 <div class="site-logo">
-  <img src="/assets/images/holstonia-logo_master.png"
+  <img src="/assets/images/holstonia-logo.png"
        alt="Holstonia Bigfoot Investigations — From Anomaly to Analysis">
 </div>
 
