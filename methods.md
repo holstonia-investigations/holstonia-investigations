@@ -7,7 +7,6 @@
 [Changelog](/changelog)
 
 ---
-{% include nav.md %}
 
 # Methods & Framework
 
