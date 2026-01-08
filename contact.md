@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About & Scope
+title: Contact
 ---
 [About](/about) ·
 [Methods](/methods) ·
