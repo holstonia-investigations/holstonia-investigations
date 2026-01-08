@@ -1,3 +1,4 @@
+layout: default
 [About](/about) ·
 [Methods](/methods) ·
 [Research](/research) ·
