@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About & Scope
+title: Research Papers
 ---
 [About](/about) ·
 [Methods](/methods) ·
