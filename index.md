@@ -1,3 +1,7 @@
+---
+layout: default
+title: About & Scope
+---
 <div class="site-logo">
   <img src="/assets/images/holstonia-logo.png"
        alt="Holstonia Bigfoot Investigations — From Anomaly to Analysis">
