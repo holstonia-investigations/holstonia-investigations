@@ -2,14 +2,6 @@
 layout: default
 title: Methods and Framework
 ---
-[About](/about) ·
-[Methods](/methods) ·
-[Research](/research) ·
-[Reference Library](/reference-library) ·
-[Media](/media-faq) ·
-[Contact](/contact) ·
-[Changelog](/changelog)
-
 ---
 
 # Methods & Framework
