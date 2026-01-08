@@ -1,5 +1,3 @@
-### Jump to a section
-
 - [Scientific & Methodological Terms](#scientific--methodological-terms-alphabetical)
 - [Statistical & Probabilistic Concepts](#statistical--probabilistic-concepts-alphabetical)
 - [Ethological & Behavioral Descriptors](#ethological--behavioral-descriptors-alphabetical)
