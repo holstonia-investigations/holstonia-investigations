@@ -1,1 +1,9 @@
 @import url("/assets/css/site-nav.css");
+nav.site-nav a::after {
+  content: " | ";
+  opacity: 0.6;
+}
+
+nav.site-nav a:last-child::after {
+  content: "";
+}
