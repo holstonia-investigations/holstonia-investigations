@@ -13,7 +13,6 @@ its methods, and its scope. It is intended for journalists, researchers,
 and interested readers seeking clarification.
 
 ---
-{% include nav.md %}
 
 ## Is this project claiming Bigfoot exists?
 
