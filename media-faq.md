@@ -2,13 +2,6 @@
 layout: default
 title: Media and FAQ
 ---
-[About](/about) ·
-[Methods](/methods) ·
-[Research](/research) ·
-[Reference Library](/reference-library) ·
-[Media](/media-faq) ·
-[Contact](/contact) ·
-[Changelog](/changelog)
 
 # Media & Frequently Asked Questions
 
