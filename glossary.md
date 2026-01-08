@@ -1,7 +1,7 @@
 ---
 title: Glossary
 ---
-{% include nav.md %}
+
 
 Companion Reference to the Holstonia Bigfoot Investigations Papers
 
