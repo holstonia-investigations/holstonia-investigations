@@ -17,3 +17,16 @@
 .site-nav a:hover {
   text-decoration: underline;
 }
+/* Vertical separators between nav links */
+.site-nav a {
+  position: relative;
+  padding-right: 0.75rem;
+  margin-right: 0.75rem;
+}
+
+.site-nav a:not(:last-child)::after {
+  content: "|";
+  position: absolute;
+  right: 0;
+  color: rgba(0,0,0,0.45);
+}
