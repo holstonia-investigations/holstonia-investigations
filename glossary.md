@@ -1,4 +1,3 @@
-
 Glossary
 ---
 Companion Reference to the Holstonia Bigfoot Investigations Papers
