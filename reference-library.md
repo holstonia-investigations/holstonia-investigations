@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About & Scope
+title: Reference Library
 ---
  [About](/about) ·
 [Methods](/methods) ·
