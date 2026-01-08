@@ -9,7 +9,7 @@ Glossary
 - [Field & Anomalous Research Terminology](#field--anomalous-research-terminology-alphabetical)
 
 
-Glossary
+##Glossary
 Companion Reference to the Holstonia Bigfoot Investigations Papers
 This glossary is provided as a companion reference for readers of the Holstonia Bigfoot Investigations paper series. It defines technical, statistical, ethological, and field-specific terms used across the papers without modifying, extending, or reinterpreting the arguments presented therein. It is divided into the following sections:
 
