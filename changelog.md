@@ -36,6 +36,8 @@ Entries are ordered from most recent to oldest.
   - Classified as compressed, unverified provenance
   - Included for calibration and comparative purposes only
 
+## 2026-01-08
+- Added glossary and performed maintenance on navigation links
 ---
 
 ## Update policy
