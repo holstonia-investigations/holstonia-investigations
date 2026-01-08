@@ -1,0 +1,19 @@
+/* Simple horizontal top nav */
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+  align-items: center;
+  padding: 0.75rem 0;
+  margin: 0 0 1rem 0;
+  border-bottom: 1px solid rgba(0,0,0,0.15);
+}
+
+.site-nav a {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
