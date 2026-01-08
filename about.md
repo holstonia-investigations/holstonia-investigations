@@ -2,14 +2,6 @@
 layout: default
 title: About & Scope
 ---
-[About](/about) ·
-[Methods](/methods) ·
-[Research](/research) ·
-[Reference Library](/reference-library) ·
-[Media](/media-faq) ·
-[Contact](/contact) ·
-[Changelog](/changelog)
-
 ---
 # About Holstonia Bigfoot Investigations
 
