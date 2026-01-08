@@ -13,6 +13,7 @@ methodological critique, and media questions related to the
 research published on this site.
 
 ---
+{% include nav.md %}
 
 ## General correspondence
 
