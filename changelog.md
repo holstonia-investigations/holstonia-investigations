@@ -15,7 +15,6 @@ Minor edits (e.g., formatting, typographical corrections) are not always listed.
 Entries are ordered from most recent to oldest.
 
 ---
-{% include nav.md %}
 
 ## 2026-01-05
 
