@@ -1,13 +1,13 @@
+---
+Glossary
+---
+{% include nav.md %}
+
 - [Scientific & Methodological Terms](#scientific--methodological-terms-alphabetical)
 - [Statistical & Probabilistic Concepts](#statistical--probabilistic-concepts-alphabetical)
 - [Ethological & Behavioral Descriptors](#ethological--behavioral-descriptors-alphabetical)
 - [Field & Anomalous Research Terminology](#field--anomalous-research-terminology-alphabetical)
-- 
----
-Glossary
----
 
-{% include nav.md %}
 
 Glossary
 Companion Reference to the Holstonia Bigfoot Investigations Papers
