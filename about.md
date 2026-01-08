@@ -18,6 +18,7 @@ or ontological status of any specific organism. The emphasis throughout is on
 method, evidence quality, and inference rather than belief or advocacy.
 
 ---
+{% include nav.md %}
 
 ## Scope and Objectives
 
