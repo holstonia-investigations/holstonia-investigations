@@ -7,6 +7,8 @@
 [Changelog](/changelog)
 
 ---
+{% include nav.md %}
+
 # Methods & Framework
 
 This page documents the methodological framework used in
