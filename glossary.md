@@ -22,7 +22,7 @@ This glossary is provided as a companion reference for readers of the Holstonia 
 -Ethological & Behavioral Descriptors
 
 -Field & Anomalous Research Terminology
-________________________________________
+
  
 ## Scientific & Methodological Terms (Alphabetical) {#scientific-methodological}
 
