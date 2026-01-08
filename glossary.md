@@ -6,8 +6,7 @@
 - [Field & Anomalous Research Terminology](#field--anomalous-research-terminology-alphabetical)
 - 
 ---
-layout: default
-title: Glossary
+Glossary
 ---
 Glossary
 Companion Reference to the Holstonia Bigfoot Investigations Papers
