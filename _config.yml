@@ -1,3 +1,10 @@
 title: Holstonia Bigfoot Investigations
 theme: minima
 header_pages: []
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
