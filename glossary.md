@@ -175,6 +175,7 @@ The degree to which a hypothesis can be empirically evaluated.
 
 Why it matters: Empirical accessibility determines whether a claim can be evaluated.
 
+[↑ Back to top](#top)
 ________________________________________
 
 ## Statistical & Probabilistic Concepts (Alphabetical) {#statistical-probabilistic}
@@ -247,6 +248,7 @@ Explicit acknowledgment and modeling of unknowns rather than their omission.
 
 Why it matters: Explicit modeling of unknowns prevents false precision.
 
+[↑ Back to top](#top)
 ________________________________________
 
 ## Ethological & Behavioral Descriptors (Alphabetical) {#ethological-behavioral}
@@ -311,7 +313,7 @@ Patterns in how observers choose to report, withhold, or interpret experiences.
 
 Why it matters: Social and cognitive factors shape how observations enter the record.
 
-________________________________________
+[↑ Back to top](#top)________________________________________
 
 ## Field & Anomalous Research Terminology (Alphabetical) {#field-anomalous}
 
@@ -487,5 +489,5 @@ Intergenerational ecological knowledge developed through lived experience.
 
 Why it matters: Intergenerational observation provides longitudinal environmental context.
 
- 
+[↑ Back to top](#top)
 
