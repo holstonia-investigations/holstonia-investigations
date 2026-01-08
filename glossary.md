@@ -1,5 +1,6 @@
 ---
-title: Glossary
+layout: default
+title: About & Scope
 ---
 
 
