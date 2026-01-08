@@ -7,6 +7,7 @@
 - [Methods & Framework](./methods)
 - [About & Scope](./about)
 - [Research Papers](./research)
+- [Glossary](/glossary)
 - [Reference Library](./reference-library)
 - [Media & FAQ](./media)
 - [Contact](./contact)
