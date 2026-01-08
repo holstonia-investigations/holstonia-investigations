@@ -1,3 +1,10 @@
+### Jump to a section
+
+- [Scientific & Methodological Terms](#scientific--methodological-terms-alphabetical)
+- [Statistical & Probabilistic Concepts](#statistical--probabilistic-concepts-alphabetical)
+- [Ethological & Behavioral Descriptors](#ethological--behavioral-descriptors-alphabetical)
+- [Field & Anomalous Research Terminology](#field--anomalous-research-terminology-alphabetical)
+- 
 ---
 layout: default
 title: Glossary
@@ -11,7 +18,7 @@ This glossary is provided as a companion reference for readers of the Holstonia 
 	Field & Anomalous Research Terminology
 ________________________________________
  
-## Scientific & Methodological Terms (Alphabetical)
+## Scientific & Methodological Terms (Alphabetical) {#scientific-methodological}
 
 **Acoustic probability model**
 
@@ -171,7 +178,7 @@ Why it matters: Empirical accessibility determines whether a claim can be evalua
 
 ________________________________________
 
-## Statistical & Probabilistic Concepts (Alphabetical)
+## Statistical & Probabilistic Concepts (Alphabetical) {#statistical-probabilistic}
 
 **Base rate**
 
@@ -243,7 +250,7 @@ Why it matters: Explicit modeling of unknowns prevents false precision.
 
 ________________________________________
 
-## Ethological & Behavioral Descriptors (Alphabetical)
+## Ethological & Behavioral Descriptors (Alphabetical) {#ethological-behavioral}
 
 **Avoidance intelligence**
 
@@ -307,7 +314,7 @@ Why it matters: Social and cognitive factors shape how observations enter the re
 
 ________________________________________
 
-## Field & Anomalous Research Terminology (Alphabetical)
+## Field & Anomalous Research Terminology (Alphabetical) {#field-anomalous}
 
 **Adaptive alleles**
 
