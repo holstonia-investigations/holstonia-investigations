@@ -1,3 +1,7 @@
+---
+layout: default
+title: About & Scope
+---
 [About](/about) ·
 [Methods](/methods) ·
 [Research](/research) ·
