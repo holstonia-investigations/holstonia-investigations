@@ -6,6 +6,7 @@
 [Contact](/contact) ·
 [Changelog](/changelog)
 
+---
 # About Holstonia Bigfoot Investigations
 
 **Holstonia Bigfoot Investigations (HBI)** is an independent research initiative
@@ -16,7 +17,6 @@ The project approaches these reports within a **provisional relict hominin frame
 for analytical convenience, without assuming the existence, non-existence,
 or ontological status of any specific organism. The emphasis throughout is on
 method, evidence quality, and inference rather than belief or advocacy.
-
 ---
 {% include nav.md %}
 
