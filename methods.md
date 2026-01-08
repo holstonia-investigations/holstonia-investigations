@@ -62,6 +62,10 @@ Video materials are examined using comparative gait analysis, including side-by-
 
 The term “perinormal” is used descriptively to denote reported phenomena that fall outside current biological documentation but do not require paranormal explanation. This framing is intended to maintain analytical openness while avoiding premature ontological claims.
 
+## Analytical Tools and Editorial Review
+
+Some components of data handling, analysis, and manuscript preparation in the Holstonia Bigfoot Investigations project use AI-assisted tools as analytical and editorial aids, including outlining, structural review, consistency checks, and stress-testing of arguments. These tools are not used to generate evidence, sources, data classifications, or conclusions. All empirical claims, citations, interpretations, and inferential limits remain governed by explicitly stated methodological constraints and human judgment and accountability.
+
 ## Limitations
 
 This project acknowledges substantial limitations, including incomplete data, unverifiable reports, and the absence of physical specimens. Conclusions are therefore provisional and subject to revision as new evidence or methods become available.
