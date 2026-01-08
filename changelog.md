@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About & Scope
+title: Change Log
 ---
 [About](/about) ·
 [Methods](/methods) ·
