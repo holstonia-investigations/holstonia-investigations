@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About & Scope
+title: Media and FAQ
 ---
 [About](/about) ·
 [Methods](/methods) ·
