@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About & Scope
+title: Methods and Framework
 ---
 [About](/about) ·
 [Methods](/methods) ·
