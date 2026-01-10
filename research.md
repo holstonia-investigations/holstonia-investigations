@@ -49,6 +49,12 @@ This page provides access to research papers produced by the Holstonia Bigfoot I
 ### Paper 11 — Monograph: Applying Science to Reports of Anomalous Biological Phenomena
 [View on Google Drive](https://drive.google.com/open?id=1qdGJfjKUcJCoB31pSVdmLsSubv3FIeWx&usp=drive_fs)
 
+### Paper 11 - The Limits of Consumer Security Cameras as Audio and Video Data 
+[View on Google Drive](https://drive.google.com/open?id=1RxQ6f3Sn_OndQ0QVoL8nxlAqowjM43NC&usp=drive_fs)
+
+### Paper 12 - Why Don’t Trail Cameras Capture Everything?
+[View on Google Drive](https://drive.google.com/open?id=1nB8YeFkwkag5urHM4jrTB5MwXRpYpVXq&usp=drive_fs)
+
 ## How to Cite These Papers
 
 Papers published under *Holstonia Bigfoot Investigations* are released as stable public
