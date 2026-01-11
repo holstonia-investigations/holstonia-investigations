@@ -46,7 +46,7 @@ This page provides access to research papers produced by the Holstonia Bigfoot I
 *Non-diagnostic video exemplars and calibration controls*  
 [View on Google Drive](https://drive.google.com/open?id=1H0zexRp_VtoOtG6ExogRb7o0I5mQ7mN8&usp=drive_fs)
 
-###Paper 11 -The Limits of Consumer Security Cameras as Audio and Video Data
+### Paper 11 -The Limits of Consumer Security Cameras as Audio and Video Data
 [View on Google Drive](https://drive.google.com/open?id=10bL4I7wAxubfNrhc8C-J4Sjg0d-O-YQt&usp=drive_fs)
 
 ### Paper 12 - Why Don’t Trail Cameras Capture Everything?
