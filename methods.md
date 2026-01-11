@@ -69,3 +69,39 @@ Some components of data handling, analysis, and manuscript preparation in the Ho
 ## Limitations
 
 This project acknowledges substantial limitations, including incomplete data, unverifiable reports, and the absence of physical specimens. Conclusions are therefore provisional and subject to revision as new evidence or methods become available.
+
+## Planned Calibration Studies
+
+The following topics represent planned and in-progress calibration studies within the Holstonia framework. Each addresses features commonly reported in anomalous encounter accounts that are known to be sensitive to perceptual bias, environmental confounds, and observer-dependent effects. In keeping with the broader Holstonia approach, these studies are not intended to establish attribution or confirmation, but to constrain inference, clarify evidentiary limits, and standardize analytical treatment across the report corpus.
+
+### Auditory Vocalizations
+Analysis of reported “whoops,” “howls,” and extended vocalizations, focusing on acoustic structure, duration, propagation effects, and overlap with known biological and environmental sound sources.
+
+### Call-and-Response Claims
+Examination of perceived responsive vocal or percussive events, with attention to temporal contingency, coincidence probability, and reinforcement effects arising from observer behavior.
+
+### Percussive Events
+Calibration of reported wood knocks, rock clacks, and related impulse sounds, incorporating comparative ethology, acoustic localization constraints, environmental sources, and observer-generated physiological mechanisms.
+
+### Visual Locomotion and Gait
+Assessment of reported bipedal movement as visual observation data, including terrain effects, viewing geometry, gait variability, and comparison with human and non-human analogues.
+
+### Size and Distance Estimation
+Evaluation of reported height, mass, and distance estimates in forested environments, emphasizing known limitations of human visual scaling in the absence of fixed reference objects.
+
+### Olfactory Reports
+Treatment of reported odors as contextual metadata rather than diagnostic indicators, including comparison with known animal scent profiles and environmental conditions.
+
+### Object-Throwing Events
+Analysis of reported rock, stick, or debris throws as energy-transfer events, incorporating ballistic plausibility, terrain effects, and non-agentive alternatives.
+
+### Tree Structures and Breakage
+Examination of reported tree bends, breaks, and formations using forestry science, weather damage patterns, human activity, and inter-observer reliability as primary controls.
+
+### Observer State and Perception
+Analysis of reported fear responses, vigilance states, and feelings of being observed as features of observer condition rather than direct evidence of external detection.
+
+### Temporal and Contextual Patterns
+Analysis of seasonality, time-of-day effects, observer effort, and reporting frequency to distinguish encounter prevalence from detection probability and reporting bias.
+
+Collectively, these calibration studies are intended to function as modular components within a unified methodological archive. Individual analyses may be revised, consolidated, or incorporated into a future synthesis as the corpus develops and evidentiary constraints are refined.
