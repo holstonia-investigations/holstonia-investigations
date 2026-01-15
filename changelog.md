@@ -40,6 +40,9 @@ Entries are ordered from most recent to oldest.
 - Added glossary and performed maintenance on navigation links
 ---
 
+## 2026-01-05
+- Added four papers
+
 ## Update policy
 
 - Substantive changes affecting interpretation, methods, or conclusions
