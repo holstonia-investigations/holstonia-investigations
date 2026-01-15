@@ -41,7 +41,7 @@ Entries are ordered from most recent to oldest.
 ---
 
 ## 2026-01-05
-- Added four papers
+- Added four papers and link to Sasquatch Data Project website
 
 ## Update policy
 
