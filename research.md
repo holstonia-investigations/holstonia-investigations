@@ -52,6 +52,18 @@ This page provides access to research papers produced by the Holstonia Bigfoot I
 ### Paper 12 - Why Don’t Trail Cameras Capture Everything?
 [View on Google Drive](https://drive.google.com/open?id=1nB8YeFkwkag5urHM4jrTB5MwXRpYpVXq&usp=drive_fs)
 
+### Paper 13 - Percussive Claims in Field Reports
+[View on Google Drive](https://drive.google.com/open?id=1CBzYYsdsuMXiLoQfn8ca5r64ZH4INPiG&usp=drive_fs)
+
+### Paper 14 - Near Miss Events and Non Encounters
+[View on Google Drive](https://drive.google.com/open?id=12rQmrJubZ49rYP8MBai0_vo2EKaXBXhZ&usp=drive_fs)
+
+### Paper 15 - Prior Exposure and Narrative Contamination
+[View on Google Drive](https://drive.google.com/open?id=1QIrugs5I5ese1ep_rkdhJbRE1LgF8wAs&usp=drive_fs)
+
+### Paper 16 - Paranormal Attribution and Interpretive Escalation in Anomalous Encounter Reports
+[View on Google Drive](https://drive.google.com/open?id=1IKmqzOyLEOJjgub7lUUpUyh-bE8gSI3r&usp=drive_fs)
+
 ### Monograph: Applying Science to Reports of Anomalous Biological Phenomena
 [View on Google Drive](https://drive.google.com/open?id=17SMIdLEWI8U9fzFCeEqHYpoK8bP66btb&usp=drive_fs)
 
