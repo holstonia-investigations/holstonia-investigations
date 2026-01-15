@@ -67,3 +67,5 @@ or funding body unless explicitly stated.
 
 The views expressed are those of the author and are offered for scholarly
 discussion and critical evaluation.
+
+**[Sasquatch Data Project](https://www.sasquatchdataproject.com/)** is an independent citizen-science effort that compiles and analyzes reported encounters at scale. Although its methods and analytical aims differ from those used here, SDP shares a commitment to treating reports as data rather than folklore. This reference is provided for context and does not imply collaboration or shared conclusions.
