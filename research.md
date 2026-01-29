@@ -67,6 +67,36 @@ This page provides access to research papers produced by the Holstonia Bigfoot I
 ### Monograph: Applying Science to Reports of Anomalous Biological Phenomena
 [View on Google Drive](https://drive.google.com/open?id=17SMIdLEWI8U9fzFCeEqHYpoK8bP66btb&usp=drive_fs)
 
+### Paper 17 - Misidentified Bears as an Explanatory Model for Bigfoot Reports
+[View on Google Drive](https://docs.google.com/document/d/1Lu4ulA_YYubmF2RxmdGqHv3P1wAHkheG?rtpof=true&usp=drive_fs)
+
+### Paper 18 - Hoaxing as a Structured Phenomenon Patterns, Constraints, and Explanatory Limits
+[View on Google Drive](https://docs.google.com/document/d/1zE5C798DUQ5ptLgkqxTnErqJ4kbTF8EY?rtpof=true&usp=drive_fs)
+
+### Paper 19 - Cultural Transmission, Prior Exposure, and Narrative Drift
+[View on Google Drive](https://docs.google.com/document/d/1C9F0ScQU5XoMJp4qFaeLUHZe18y2eSFN?rtpof=true&usp=drive_fs)
+
+### Paper 20 - Audio Evidence in Anomalous Biological Reports
+[View on Google Drive](https://docs.google.com/document/d/19gmzcsd3qjMkd9RQ32XaSY7Qmh0zi8g0?rtpof=true&usp=drive_fs)
+
+### Paper 21 - Track Evidence in Anomalous Biological Reports
+[View on Google Drive](https://docs.google.com/document/d/13P0YmgYNd9OpxJLbu5x-UeYRWusehQSK?rtpof=true&usp=drive_fs)
+
+### Paper 22 - Photographic and Video Evidence in Anomalous Biological Reports
+[View on Google Drive](https://docs.google.com/document/d/1WX3VYydXEXsG0OPhQ7U9f_39W7V_qCEB?rtpof=true&usp=drive_fs)
+
+### Paper 23 - Residual Patterns Across Modalities
+[View on Google Drive](https://docs.google.com/document/d/1u41Iry744e6t7yoFC6FP0R4A9g2WdTlJ?rtpof=true&usp=drive_fs)
+
+### Paper 24 - From Residuals to Research Design
+[View on Google Drive](https://docs.google.com/document/d/14P6V9P0Z-aGUt09YMefRE93VQ7pG4sBU?rtpof=true&usp=drive_fs)
+
+### Paper 25 - Exit Criteria and Falsifiability
+[View on Google Drive](https://docs.google.com/document/d/1G8zsuxSRG3OpAwCfhLGILdzNd48VqCWy?rtpof=true&usp=drive_fs)
+
+### Paper 26 - Doing Research Within the Holstonia Framework
+[View on Google Drive](https://docs.google.com/document/d/1XtoI36zHNOb4spZCMpU5wjAnIqqsPWfe?rtpof=true&usp=drive_fs)
+
 ## How to Cite These Papers
 
 Papers published under *Holstonia Bigfoot Investigations* are released as stable public
