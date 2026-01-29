@@ -43,6 +43,9 @@ Entries are ordered from most recent to oldest.
 ## 2026-01-05
 - Added four papers and link to Sasquatch Data Project website
 
+## 2026-01-29
+- Added remainder of prepared papers
+
 ## Update policy
 
 - Substantive changes affecting interpretation, methods, or conclusions
