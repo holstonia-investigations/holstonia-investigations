@@ -3,8 +3,113 @@ layout: default
 title: Research Papers
 ---
 
-## Published Papers
-This page provides access to research papers produced by the Holstonia Bigfoot Investigations. Papers are numbered sequentially and made available as they reach a stable, review-ready state. Earlier versions may be revised as methods, data, or contextual understanding evolve.
+# Research Papers  
+## Holstonia Investigations
+
+Holstonia Investigations examines anomalous biological reports using structured scientific reasoning under conditions of uncertainty.  
+
+These papers develop the conceptual framework, research methods, and analytical studies used in ongoing Holstonia work.
+
+If you are new to the project, begin here:
+
+📌 **[Start Here: Understanding Holstonia Investigations](link-to-start-here)**
+
+---
+
+## How the Papers Are Organized
+
+Holstonia research progresses through three stages:
+
+1. Foundations — establishing intellectual and analytical groundwork  
+2. Methods — defining how research is conducted  
+3. Applications — studies applying those methods to real data  
+
+Paper numbering remains continuous across sections.
+
+---
+
+## 📌 Start Here (Pinned Entry)
+
+**Start Here: Understanding Holstonia Investigations**  
+A guided pathway introducing the project, methods, and first analytical studies.
+
+➡ Recommended first stop for new readers.
+
+---
+
+# Foundations & Framework  
+*(Papers 1–26)*
+
+These papers establish philosophical, analytical, and methodological foundations for studying anomalous biological reports responsibly.
+
+Topics include:
+
+- Philosophy of science and uncertainty
+- Report analysis frameworks
+- Filtering and interpretation discipline
+- Ethical constraints in anomalous inquiry
+- Exit criteria for research programs
+
+### Papers
+- Paper 1 — Title
+- Paper 2 — Title
+- …
+- Paper 26 — *Doing Research Within the Holstonia Framework*
+
+---
+
+# Methods & Practice  
+*(Paper 26 onward)*
+
+These papers describe how research is conducted within the Holstonia framework.
+
+Topics include:
+
+- Field documentation standards
+- Observer effort modeling
+- Data handling and transparency
+- Acoustic and track analysis methods
+- Citizen science integration
+
+### Papers
+- Paper 26 — *Doing Research Within the Holstonia Framework*
+- Paper 28 — *(forthcoming)* Field Instrumentation and Standardization
+- Paper 29 — *(planned)* Observer Effort Modeling
+
+---
+
+# Applications & Analytical Studies  
+*(Paper 27 onward)*
+
+These papers apply Holstonia methods to real datasets and terrain contexts.
+
+Topics include:
+
+- Terrain convergence analysis
+- Spatial and temporal report patterns
+- Multi-modal signal comparison
+- Regional encounter modeling
+
+### Papers
+- Paper 27 — *Terrain Convergence and Report Distribution*
+- Future analytical studies forthcoming
+
+---
+
+## Research Philosophy
+
+Holstonia Investigations does not promise discovery or validation.  
+It promises disciplined inquiry, ethical restraint, and methodological transparency.
+
+---
+
+## Citation & Use
+
+Holstonia papers may be cited or shared with attribution.  
+Researchers are encouraged to replicate methods and challenge conclusions.
+
+---
+
 
 ### Paper 1 — From Presence-Only Reports to Testable Inference  
 *A monitoring framework for rare and elusive species*  
