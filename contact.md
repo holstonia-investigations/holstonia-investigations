@@ -34,14 +34,16 @@ prior to reaching out, as many common questions are addressed there.
 
 ---
 
-## Scope of contact
+## Scope of Contact
 
-Please note that HBI is unable to:
-- Investigate individual sightings or claims
-- Evaluate private evidence outside the published framework
-- Respond to anonymous or abusive correspondence
+Please note that **Holstonia Bigfoot Investigations (HBI)** is unable to:
 
-All communications should relate directly to the research scope
-and materials presented on this site.
+- Investigate individual sightings or claims  
+- Evaluate private evidence outside the published framework  
+- Respond to anonymous or abusive correspondence  
+
+Reports of potential encounters should instead be submitted directly to the **Bigfoot Field Researchers Organization (BFRO)** through its public reporting system.
+
+The author serves separately as a BFRO investigator and reviews and accepts reports submitted through that system for possible follow-up, subject to BFRO policies and procedures.
 
 
