@@ -12,8 +12,6 @@ These papers develop the conceptual framework, research methods, and analytical 
 
 If you are new to the project, begin here:
 
-📌 **[Start Here: Understanding Holstonia Investigations](link-to-start-here)**
-
 ---
 
 ## How the Papers Are Organized
@@ -28,9 +26,6 @@ Paper numbering remains continuous across sections.
 
 ---
 
-## 📌 Start Here (Pinned Entry)
-
-**Start Here: Understanding Holstonia Investigations**  
 A guided pathway introducing the project, methods, and first analytical studies.
 
 ➡ Recommended first stop for new readers.
@@ -49,12 +44,6 @@ Topics include:
 - Filtering and interpretation discipline
 - Ethical constraints in anomalous inquiry
 - Exit criteria for research programs
-
-### Papers
-- Paper 1 — Title
-- Paper 2 — Title
-- …
-- Paper 26 — *Doing Research Within the Holstonia Framework*
 
 ---
 
