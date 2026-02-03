@@ -22,70 +22,59 @@ Holstonia research progresses through three stages:
 2. Methods — defining how research is conducted  
 3. Applications — studies applying those methods to real data  
 
-Paper numbering remains continuous across sections.
+## The Holstonia Research Architecture
+
+Holstonia is organized as a cumulative research program examining anomalous biological claims under conditions of uncertainty. The sequence is intentional: early domains establish analytical and methodological constraints, while later domains apply those constraints to biological models, evidentiary interpretation, and decision frameworks.
+
+Readers new to the project are encouraged to begin with the Foundations, where the intellectual posture guiding this work is defined.
 
 ---
 
-A guided pathway introducing the project, methods, and first analytical studies.
+### Foundations  
+*Establishing the intellectual and analytical groundwork required for responsible inquiry.*
 
-➡ Recommended first stop for new readers.
-
----
-
-# Foundations & Framework
-
-The papers below are organized as a cumulative research program examining anomalous biological claims under conditions of uncertainty. Earlier domains establish methodological constraints drawn from ecology, anthropology, and detection science; later domains apply those constraints to evidentiary interpretation, biological modeling, and decision frameworks. Readers new to Holstonia may wish to begin with the Foundations of Inquiry, as the sequence is designed to build analytical clarity before engaging candidate explanations.
-
----
-*(Papers 1–26)*
-
-These papers establish philosophical, analytical, and methodological foundations for studying anomalous biological reports responsibly.
+These papers develop the philosophical, ecological, and methodological conditions necessary before candidate explanations are considered.
 
 Topics include:
 
-- Philosophy of science and uncertainty
-- Report analysis frameworks
-- Filtering and interpretation discipline
-- Ethical constraints in anomalous inquiry
-- Exit criteria for research programs
+- philosophy of science and structured uncertainty  
+- report analysis frameworks  
+- interpretive constraints  
+- evidentiary ceilings  
+- ethical boundaries  
+- exit criteria for research programs  
 
 ---
 
-# Methods & Practice  
-*(Paper 26 onward)*
+### Methods  
+*Defining how anomalous claims can be studied under real-world conditions.*
 
-These papers describe how research is conducted within the Holstonia framework.
+These papers describe the operational practices of the Holstonia framework.
 
 Topics include:
 
-- Field documentation standards
-- Observer effort modeling
-- Data handling and transparency
-- Acoustic and track analysis methods
-- Citizen science integration
-
-### Papers
-- Paper 26 — *Doing Research Within the Holstonia Framework*
-- Paper 28 — *(forthcoming)* Field Instrumentation and Standardization
-- Paper 29 — *(planned)* Observer Effort Modeling
+- field documentation standards  
+- observer-effort modeling  
+- data transparency  
+- acoustic and track analysis  
+- instrumentation strategy  
+- citizen science integration  
 
 ---
 
-# Applications & Analytical Studies  
-*(Paper 27 onward)*
+### Applications  
+*Applying methodological constraints to real datasets and terrain contexts.*
 
-These papers apply Holstonia methods to real datasets and terrain contexts.
+These studies examine patterned reports, spatial structure, and multi-modal signals within defined landscapes.
 
 Topics include:
 
-- Terrain convergence analysis
-- Spatial and temporal report patterns
-- Multi-modal signal comparison
-- Regional encounter modeling
+- terrain convergence  
+- spatial and temporal clustering  
+- signal comparison across modalities  
+- regional encounter modeling  
 
-### Papers
-- Paper 27 — *Terrain Convergence and Report Distribution*
-- Future analytical studies forthcoming
+Additional analytical studies will extend this domain.
 
 ---
 
