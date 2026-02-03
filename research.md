@@ -33,6 +33,8 @@ A guided pathway introducing the project, methods, and first analytical studies.
 ---
 
 # Foundations & Framework  
+The papers below are organized as a cumulative research program examining anomalous biological claims under conditions of uncertainty. Earlier domains establish methodological constraints drawn from ecology, anthropology, and detection science; later domains apply those constraints to evidentiary interpretation, biological modeling, and decision frameworks. Readers new to Holstonia may wish to begin with the Foundations of Inquiry, as the sequence is designed to build analytical clarity before engaging candidate explanations.
+---
 *(Papers 1–26)*
 
 These papers establish philosophical, analytical, and methodological foundations for studying anomalous biological reports responsibly.
