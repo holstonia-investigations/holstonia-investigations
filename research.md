@@ -92,97 +92,152 @@ Researchers are encouraged to replicate methods and challenge conclusions.
 
 ---
 
+## Foundations
 
-### Paper 1 — From Presence-Only Reports to Testable Inference  
-*A monitoring framework for rare and elusive species*  
-[View on Google Drive](https://drive.google.com/open?id=1dgdidH1yDIKysyHcRaVmil5aiHapVBT5&usp=drive_fs)
+### Anomalous Biological Claims as a Scientific Problem  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Foundations-1-Anomalous-Biological-Claims-as-a-Scientific-Problem.pdf)
 
-### Paper 2 — Statistical Patterns in Bigfoot Sightings  
-*Effort, clustering, and reporting bias*  
-[View on Google Drive](https://drive.google.com/open?id=1uFehpmLGSmdejVBZsS72wsw8zqq3OsRq&usp=drive_fs)
+### Detection Limits and Biological Inference  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Foundations-2-Detection-Limits-and-Biological-Inference.pdf)
 
-### Paper 3 — Acoustic Reference Types and Comparative Analysis  
-*Toward a standardized anomalous vocalization framework*  
-[View on Google Drive](https://drive.google.com/open?id=1e5CzoQUZK5UVoUH7ZZaxrZsAPc8CDR-W&usp=drive_fs)
+### Exit Criteria and Falsifiability  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Foundations-3-Exit-Criteria-and-Falsifiability.pdf)
 
-### Paper 4 — Trackway Morphology and Substrate Effects  
-*Comparative ichnological considerations*  
-[View on Google Drive](https://drive.google.com/open?id=1zD7lPvMsv4-cvjXg3jP6p31KbHciKdCC&usp=drive_fs)
+### Doing Research Within the Holstonia Framework  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Foundations-4-Doing-Research-Within-the-Holstonia-Framework.pdf)
 
-### Paper 5 — Environmental Correlates of Reported Activity  
-*Habitat, terrain, and resource associations*  
-[View on Google Drive](https://drive.google.com/open?id=11deHx8Q4n7IPtQQDfvN3_hCdta32tKGu&usp=drive_fs)
 
-### Paper 6 — Socio-Psychological Dimensions of Bigfoot Reporting  
-*Perception, expectation, and narrative construction*  
-[View on Google Drive](https://drive.google.com/open?id=1IISidtVCQtbl8RrOgZEi1EtM8MRUmqss&usp=drive_fs)
 
-### Paper 7 — Paleoanthropological and Archaeological Context  
-*Fossil gaps, preservation bias, and contested evidence*  
-[View on Google Drive](https://drive.google.com/open?id=1FIvgpYJL9wuxOcg2KeU-TM7M6gQAD82V&usp=drive_fs)
+## Methods
 
-### Paper 8 — Historical Descriptions and Consistency Over Time  
-*Early accounts and descriptive convergence*  
-[View on Google Drive](https://drive.google.com/open?id=12xDcfNEFxb-vJBsDpWILtkBsvvIppS5P&usp=drive_fs)
+### Non-Detection in Trail-Camera Surveys  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Methods-1-Non-Detection-in-Trail-Camera-Surveys.pdf)
 
-### Paper 9 — State of the Field  
-*Scientific perspectives on the relict hominin hypothesis*  
-[View on Google Drive](https://drive.google.com/open?id=1-nTNYAjtMSlXQtuf-ziWJbQ2e55WLo4D&usp=drive_fs)
+### Structured Residual Patterns Across Modalities  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Methods-2-Structured-Residual-Patterns-Across-Modalities.pdf)
 
-### Paper 10 — Comparative Gait Analysis of Reposted Bipedal Footage  
-*Non-diagnostic video exemplars and calibration controls*  
-[View on Google Drive](https://drive.google.com/open?id=1H0zexRp_VtoOtG6ExogRb7o0I5mQ7mN8&usp=drive_fs)
+### From Residual Structure to Research Design  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Methods-3-From-Residual-Structure-to-Research-Design.pdf)
 
-### Paper 11 -The Limits of Consumer Security Cameras as Audio and Video Data
-[View on Google Drive](https://drive.google.com/open?id=10bL4I7wAxubfNrhc8C-J4Sjg0d-O-YQt&usp=drive_fs)
+### Comparative Signal Ecology and Rare Species Detection  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Methods-4-Comparative-Signal-Ecology-and-Rare-Species-Detection.pdf)
 
-### Paper 12 - Why Don’t Trail Cameras Capture Everything?
-[View on Google Drive](https://drive.google.com/open?id=1nB8YeFkwkag5urHM4jrTB5MwXRpYpVXq&usp=drive_fs)
+### The Ecology of Absence  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Methods-5-The-Ecology-of-Absence.pdf)
 
-### Paper 13 - Percussive Claims in Field Reports
-[View on Google Drive](https://drive.google.com/open?id=1CBzYYsdsuMXiLoQfn8ca5r64ZH4INPiG&usp=drive_fs)
 
-### Paper 14 - Near Miss Events and Non Encounters
-[View on Google Drive](https://drive.google.com/open?id=12rQmrJubZ49rYP8MBai0_vo2EKaXBXhZ&usp=drive_fs)
 
-### Paper 15 - Prior Exposure and Narrative Contamination
-[View on Google Drive](https://drive.google.com/open?id=1QIrugs5I5ese1ep_rkdhJbRE1LgF8wAs&usp=drive_fs)
+## Evidence
 
-### Paper 16 - Paranormal Attribution and Interpretive Escalation in Anomalous Encounter Reports
-[View on Google Drive](https://drive.google.com/open?id=1IKmqzOyLEOJjgub7lUUpUyh-bE8gSI3r&usp=drive_fs)
+### Comparative Gait Analysis  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Evidence-1-Comparative-Gait-Analysis.pdf)
 
-### Monograph: Applying Science to Reports of Anomalous Biological Phenomena
-[View on Google Drive](https://drive.google.com/open?id=17SMIdLEWI8U9fzFCeEqHYpoK8bP66btb&usp=drive_fs)
+### Limits of Consumer Security Cameras  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Evidence-2-Limits-of-Consumer-Security-Cameras.pdf)
 
-### Paper 17 - Misidentified Bears as an Explanatory Model for Bigfoot Reports
-[View on Google Drive](https://docs.google.com/document/d/1Lu4ulA_YYubmF2RxmdGqHv3P1wAHkheG?rtpof=true&usp=drive_fs)
+### Percussive Claims in Field Reports  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Evidence-3-Percussive-Claims-in-Field-Reports.pdf)
 
-### Paper 18 - Hoaxing as a Structured Phenomenon Patterns, Constraints, and Explanatory Limits
-[View on Google Drive](https://docs.google.com/document/d/1zE5C798DUQ5ptLgkqxTnErqJ4kbTF8EY?rtpof=true&usp=drive_fs)
+### Audio Evidence: Limits, Failure Modes, and Risk  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Evidence-4-Audio-Evidence-Limits-Failure-Modes-and-Risk.pdf)
 
-### Paper 19 - Cultural Transmission, Prior Exposure, and Narrative Drift
-[View on Google Drive](https://docs.google.com/document/d/1C9F0ScQU5XoMJp4qFaeLUHZe18y2eSFN?rtpof=true&usp=drive_fs)
+### Track Evidence: Substrate and Ambiguity  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Evidence-5-Track-Evidence-Substrate-and-Ambiguity.pdf)
 
-### Paper 20 - Audio Evidence in Anomalous Biological Reports
-[View on Google Drive](https://docs.google.com/document/d/19gmzcsd3qjMkd9RQ32XaSY7Qmh0zi8g0?rtpof=true&usp=drive_fs)
+### Photographic and Video Evidence  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Evidence-6-Photographic-and-Video-Evidence.pdf)
 
-### Paper 21 - Track Evidence in Anomalous Biological Reports
-[View on Google Drive](https://docs.google.com/document/d/13P0YmgYNd9OpxJLbu5x-UeYRWusehQSK?rtpof=true&usp=drive_fs)
 
-### Paper 22 - Photographic and Video Evidence in Anomalous Biological Reports
-[View on Google Drive](https://docs.google.com/document/d/1WX3VYydXEXsG0OPhQ7U9f_39W7V_qCEB?rtpof=true&usp=drive_fs)
 
-### Paper 23 - Residual Patterns Across Modalities
-[View on Google Drive](https://docs.google.com/document/d/1u41Iry744e6t7yoFC6FP0R4A9g2WdTlJ?rtpof=true&usp=drive_fs)
+## Perception, Cognition, and Cultural Transmission
 
-### Paper 24 - From Residuals to Research Design
-[View on Google Drive](https://docs.google.com/document/d/14P6V9P0Z-aGUt09YMefRE93VQ7pG4sBU?rtpof=true&usp=drive_fs)
+### Non-Encounters as Data  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Perception-1-Non-Encounters-as-Data.pdf)
 
-### Paper 25 - Exit Criteria and Falsifiability
-[View on Google Drive](https://docs.google.com/document/d/1G8zsuxSRG3OpAwCfhLGILdzNd48VqCWy?rtpof=true&usp=drive_fs)
+### Prior Exposure and Narrative Framing  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Perception-2-Prior-Exposure-and-Narrative-Framing.pdf)
 
-### Paper 26 - Doing Research Within the Holstonia Framework
-[View on Google Drive](https://docs.google.com/document/d/1XtoI36zHNOb4spZCMpU5wjAnIqqsPWfe?rtpof=true&usp=drive_fs)
+### Paranormal Attribution and Interpretive Expansion  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Perception-3-Paranormal-Attribution-and-Interpretive-Expansion.pdf)
+
+### Evaluating Bear Misidentification  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Perception-4-Evaluating-Bear-Misidentification.pdf)
+
+### Modeling Hoaxing as a Structured Process  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Perception-5-Modeling-Hoaxing-as-a-Structured-Process.pdf)
+
+### Cultural Transmission and Narrative Drift  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Perception-6-Cultural-Transmission-and-Narrative-Drift.pdf)
+
+
+
+## Ecology
+
+### Terrain Convergence and Report Distribution in the Holston Region  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Ecology-1-Terrain-Convergence-and-Report-Distribution.pdf)
+
+
+
+## Genesis (Hypothesis Space)
+
+### Ecology and Population Modeling  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Genesis-1-Ecology-and-Population-Modeling.pdf)
+
+### Conservation Biology, Ethics, and Human Dimensions  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Genesis-2-Conservation-Biology-Ethics-and-Human-Dimensions.pdf)
+
+### Evolutionary Scenarios for a Relict Homo Species  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Genesis-3-Evolutionary-Scenarios-for-a-Relict-Homo-Species.pdf)
+
+### Cognition, Communication, and Cultural Complexity  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Genesis-4-Cognition-Communication-and-Cultural-Complexity.pdf)
+
+### Fossil Absence and Preservation Bias  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Genesis-5-Fossil-Absence-and-Preservation-Bias.pdf)
+
+### Behavioral and Ecological Coherence  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Genesis-6-Behavioral-and-Ecological-Coherence.pdf)
+
+### Ethological Coherence  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Genesis-7-Ethological-Coherence.pdf)
+
+### Genomic, Forensic, and eDNA Approaches  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Genesis-8-Genomic-Forensic-and-eDNA-Approaches.pdf)
+
+### State of the Scientific Field  
+**Kegley, D.**  
+[PDF](/publications/pdf/Holstonia-Genesis-9-State-of-the-Scientific-Field.pdf)
+
 
 ## How to Cite These Papers
 
