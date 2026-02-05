@@ -1,39 +1,40 @@
 ---
 layout: default
-title: Research Papers
+title: Research Series
 ---
 
-# Research Papers  
-## Holstonia Investigations
+## Research Series
 
-Holstonia Investigations examines anomalous biological reports using structured scientific reasoning under conditions of uncertainty.  
+Holstonia Bigfoot Investigations is an independent research program examining anomalous biological reports through structured scientific frameworks.
 
-These papers develop the conceptual framework, research methods, and analytical studies used in ongoing Holstonia work.
+The papers presented here develop the methodological, ecological, perceptual, and inferential foundations necessary for responsible analysis under conditions of persistent uncertainty. Together, they form a coherent research series rather than isolated essays.
 
-If you are new to the project, begin here:
+All publications are released as archival PDF/A documents to support long-term accessibility, stable citation, and scholarly use.
 
 ---
 
-## How the Papers Are Organized
+**Holstonia Research Series — Established 2026**
 
-Holstonia research progresses through three stages:
 
-1. Foundations — establishing intellectual and analytical groundwork  
-2. Methods — defining how research is conducted  
-3. Applications — studies applying those methods to real data  
+### Domain Map
 
-## The Holstonia Research Architecture
+The Holstonia research corpus is organized across six conceptual domains:
 
-Holstonia is organized as a cumulative research program examining anomalous biological claims under conditions of uncertainty. The sequence is intentional: early domains establish analytical and methodological constraints, while later domains apply those constraints to biological models, evidentiary interpretation, and decision frameworks.
+- **Foundations** — framing the scientific problem and defining evidentiary constraints  
+- **Methods** — developing research strategies for low-detection phenomena  
+- **Evidence** — evaluating the strengths and limits of reported data modalities  
+- **Perception, Cognition, and Cultural Transmission** — examining interpretive processes shaping encounter reports  
+- **Ecology** — identifying landscape-level patterns in report distribution  
+- **Genesis** — exploring the biological hypothesis space and its implications  
 
-Readers new to the project are encouraged to begin with the Foundations, where the intellectual posture guiding this work is defined.
+Readers new to the project are encouraged to begin with the **Foundations**, where the intellectual posture guiding this work is defined. Others may enter through any domain.
 
 ---
 
 ### Foundations  
 *Establishing the intellectual and analytical groundwork required for responsible inquiry.*
 
-These papers develop the philosophical, ecological, and methodological conditions necessary before candidate explanations are considered.
+These papers clarify the philosophical, ecological, and methodological conditions necessary before candidate explanations are considered.
 
 Topics include:
 
@@ -62,19 +63,49 @@ Topics include:
 
 ---
 
-### Applications  
-*Applying methodological constraints to real datasets and terrain contexts.*
+### Evidence  
+*Assessing the reliability, limits, and interpretive risks of reported data.*
 
-These studies examine patterned reports, spatial structure, and multi-modal signals within defined landscapes.
+These papers examine the strengths and constraints of the primary modalities through which anomalous biological claims are encountered.
 
 Topics include:
 
-- terrain convergence  
-- spatial and temporal clustering  
-- signal comparison across modalities  
-- regional encounter modeling  
+- audio analysis  
+- track morphology  
+- photographic and video interpretation  
+- percussive reports  
+- consumer recording technologies  
+- gait comparison  
 
-Additional analytical studies will extend this domain.
+---
+
+### Perception, Cognition, and Cultural Transmission  
+*Understanding how human interpretation shapes encounter reports.*
+
+These studies examine the psychological and cultural processes that influence what is perceived, remembered, and communicated.
+
+Topics include:
+
+- narrative framing  
+- prior exposure  
+- misidentification models  
+- hoaxing as structured behavior  
+- paranormal attribution  
+- information dynamics  
+
+---
+
+### Ecology  
+*Identifying landscape-level structure within report distributions.*
+
+This domain examines terrain convergence, spatial clustering, and environmental patterning that may shape encounter frequency.
+
+---
+
+### Genesis  
+*Exploring the biological hypothesis space under explicit scientific constraints.*
+
+These papers examine the evolutionary, ecological, genomic, and behavioral coherence of a putative relict hominin hypothesis while remaining anchored to methodological discipline.
 
 ---
 
