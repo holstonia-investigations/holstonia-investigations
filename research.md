@@ -229,7 +229,9 @@ Researchers are encouraged to replicate methods and challenge conclusions.
 **Kegley, D.**  
 [PDF](/publications/pdf/Holstonia-Ecology-1-Terrain-Convergence-and-Report-Distribution.pdf)
 
-
+### Disturbance Before Agency: Establishing Ecological Baselines for Interpreting Forest Structural Anomalies
+**Kegley, D.**  
+[PDF](/
 
 ## Genesis (Hypothesis Space)
 
