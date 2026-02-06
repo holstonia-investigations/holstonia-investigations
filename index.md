@@ -7,8 +7,9 @@ title: Index
        alt="Holstonia Bigfoot Investigations — From Anomaly to Analysis">
 </div>
 
+Research directed by Daniel H. Kegley
 
-# Start Here — If You’re Ready to Go Deeper
+# Orientation to the Holstonia Framework
 
 Many people arrive at questions about anomalous phenomena through stories, documentaries, field reports, or personal experiences. Curiosity is a good beginning. It is often what draws us toward the edges of what we understand.
 
@@ -43,6 +44,7 @@ Instead, Holstonia focuses on:
 
 The goal is not conclusion, but clarity.
 
+Holstonia is an ongoing research program; new analytical papers are added as the framework develops. The Holstonia Research Series currently includes 30+ analytical papers.
 ---
 
 ## What Holstonia Is Not
@@ -74,24 +76,6 @@ Before certainty comes the discipline of not knowing too quickly.
 If you are looking for reinforcement of an existing position, this may not be the right place.
 
 If you are looking for firmer analytical ground, you are welcome here.
-
----
-
-## Where to Begin
-
-The following papers establish the core architecture of the Holstonia framework:
-
-### **Paper 27 — Comparative Signal Ecology of Rare Species Detection**
-Explores how rare and cryptic species are detected in real ecological systems, and why imperfect detection is the rule rather than the exception.
-
-### **Paper 28 — The Ecology of Absence: Negative Evidence as Signal**
-Clarifies when non-detection carries little meaning, when it constrains interpretation, and when it obligates exit.
-
-### **Paper 29 — Observer Skill Stratification and Report Robustness**  
-(Recommended next.)  
-Examines whether structured reports persist as observer expertise increases — a critical test of signal stability.
-
-These papers are designed to be read slowly. Each builds upon the last.
 
 ---
 
