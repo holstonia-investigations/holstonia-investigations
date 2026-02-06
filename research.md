@@ -49,7 +49,7 @@ Topics include:
 
 ### Methods  
 *Defining how anomalous claims can be studied under real-world conditions.*
-
+Before a field can interpret its observations, it must first understand the instruments through which observation occurs.
 These papers describe the operational practices of the Holstonia framework.
 
 Topics include:
