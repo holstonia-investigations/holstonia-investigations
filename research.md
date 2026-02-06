@@ -127,19 +127,19 @@ Researchers are encouraged to replicate methods and challenge conclusions.
 
 ### Anomalous Biological Claims as a Scientific Problem  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Foundations-1-Anomalous-Biological-Claims-as-a-Scientific-Problem.pdf)
+[Read Paper](/publications/pdf/Holstonia-Foundations-1-Anomalous-Biological-Claims-as-a-Scientific-Problem.pdf)
 
 ### Detection Limits and Biological Inference  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Foundations-2-Detection-Limits-and-Biological-Inference.pdf)
+[Read Paper](/publications/pdf/Holstonia-Foundations-2-Detection-Limits-and-Biological-Inference.pdf)
 
 ### Exit Criteria and Falsifiability  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Foundations-3-Exit-Criteria-and-Falsifiability.pdf)
+[Read Paper](/publications/pdf/Holstonia-Foundations-3-Exit-Criteria-and-Falsifiability.pdf)
 
 ### Doing Research Within the Holstonia Framework  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Foundations-4-Doing-Research-Within-the-Holstonia-Framework.pdf)
+[Read Paper](/publications/pdf/Holstonia-Foundations-4-Doing-Research-Within-the-Holstonia-Framework.pdf)
 
 
 
@@ -147,51 +147,65 @@ Researchers are encouraged to replicate methods and challenge conclusions.
 
 ### Non-Detection in Trail-Camera Surveys  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Methods-1-Non-Detection-in-Trail-Camera-Surveys.pdf)
+[Read Paper](/publications/pdf/Holstonia-Methods-1-Non-Detection-in-Trail-Camera-Surveys.pdf)
 
 ### Structured Residual Patterns Across Modalities  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Methods-2-Structured-Residual-Patterns-Across-Modalities.pdf)
+[Read Paper](/publications/pdf/Holstonia-Methods-2-Structured-Residual-Patterns-Across-Modalities.pdf)
 
 ### From Residual Structure to Research Design  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Methods-3-From-Residual-Structure-to-Research-Design.pdf)
+[Read Paper](/publications/pdf/Holstonia-Methods-3-From-Residual-Structure-to-Research-Design.pdf)
 
 ### Comparative Signal Ecology and Rare Species Detection  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Methods-4-Comparative-Signal-Ecology-and-Rare-Species-Detection.pdf)
+[Read Paper](/publications/pdf/Holstonia-Methods-4-Comparative-Signal-Ecology-and-Rare-Species-Detection.pdf)
 
 ### The Ecology of Absence  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Methods-5-The-Ecology-of-Absence.pdf)
+[Read Paper](/publications/pdf/Holstonia-Methods-5-The-Ecology-of-Absence.pdf)
 
+### The Calibrated Observer 
+**Kegley, D.** 
+[Read Paper](publications/pdf/Holstonia-Methods-6-The-Calibrated-Observer.pdf)
 
+### Calibrating Observers in Practice  
+**Kegley, D.**
+[Read Paper](publications/pdf/Holstonia-Methods-7-Calibrating%20Observers%20in%20Practice.pdf)
+
+### Visibility Under Constraint: Road Crossings  
+**Kegley, D.** 
+[Read Paper](publications/pdf/Holstonia-Methods-8-Visibility%20Under%20Constraint%20Road%20Crossings.pdf)
+
+ ### Roads as Structured Survey Instruments
+ **Kegley, D.**
+[Read Paper](publications/pdf/Holstonia-Methods-9-Roads-as-Structured-Survey-Instruments.pdf)
 
 ## Evidence
 
 ### Comparative Gait Analysis  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Evidence-1-Comparative-Gait-Analysis.pdf)
+[Read Paper](/publications/pdf/Holstonia-Evidence-1-Comparative-Gait-Analysis.pdf)
 
 ### Limits of Consumer Security Cameras  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Evidence-2-Limits-of-Consumer-Security-Cameras.pdf)
+[Read Paper](/publications/pdf/Holstonia-Evidence-2-Limits-of-Consumer-Security-Cameras.pdf)
 
 ### Percussive Claims in Field Reports  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Evidence-3-Percussive-Claims-in-Field-Reports.pdf)
+[Read Paper](/publications/pdf/Holstonia-Evidence-3-Percussive-Claims-in-Field-Reports.pdf)
 
 ### Audio Evidence: Limits, Failure Modes, and Risk  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Evidence-4-Audio-Evidence-Limits-Failure-Modes-and-Risk.pdf)
+[Read Paper](/publications/pdf/Holstonia-Evidence-4-Audio-Evidence-Limits-Failure-Modes-and-Risk.pdf)
 
 ### Track Evidence: Substrate and Ambiguity  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Evidence-5-Track-Evidence-Substrate-and-Ambiguity.pdf)
+[Read Paper](/publications/pdf/Holstonia-Evidence-5-Track-Evidence-Substrate-and-Ambiguity.pdf)
 
 ### Photographic and Video Evidence  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Evidence-6-Photographic-and-Video-Evidence.pdf)
+[Read Paper](/publications/pdf/Holstonia-Evidence-6-Photographic-and-Video-Evidence.pdf)
 
 
 
@@ -199,77 +213,80 @@ Researchers are encouraged to replicate methods and challenge conclusions.
 
 ### Non-Encounters as Data  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Perception-1-Non-Encounters-as-Data.pdf)
+[Read Paper](/publications/pdf/Holstonia-Perception-1-Non-Encounters-as-Data.pdf)
 
 ### Prior Exposure and Narrative Framing  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Perception-2-Prior-Exposure-and-Narrative-Framing.pdf)
+[Read Paper](/publications/pdf/Holstonia-Perception-2-Prior-Exposure-and-Narrative-Framing.pdf)
 
 ### Paranormal Attribution and Interpretive Expansion  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Perception-3-Paranormal-Attribution-and-Interpretive-Expansion.pdf)
+[Read Paper](/publications/pdf/Holstonia-Perception-3-Paranormal-Attribution-and-Interpretive-Expansion.pdf)
 
 ### Evaluating Bear Misidentification  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Perception-4-Evaluating-Bear-Misidentification.pdf)
+[Read Paper](/publications/pdf/Holstonia-Perception-4-Evaluating-Bear-Misidentification.pdf)
 
 ### Modeling Hoaxing as a Structured Process  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Perception-5-Modeling-Hoaxing-as-a-Structured-Process.pdf)
+[Read Paper](/publications/pdf/Holstonia-Perception-5-Modeling-Hoaxing-as-a-Structured-Process.pdf)
 
 ### Cultural Transmission and Narrative Drift  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Perception-6-Cultural-Transmission-and-Narrative-Drift.pdf)
+[Read Paper](/publications/pdf/Holstonia-Perception-6-Cultural-Transmission-and-Narrative-Drift.pdf)
 
-
+### Observer Skill Stratification
+**Kegley, D.** 
+[Read Paper](publications/pdf/Holstonia-Perception-7-Observer-Skill-Stratification.pdf)
 
 ## Ecology
 
 ### Terrain Convergence and Report Distribution in the Holston Region  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Ecology-1-Terrain-Convergence-and-Report-Distribution.pdf)
+[Read Paper](/publications/pdf/Holstonia-Ecology-1-Terrain-Convergence-and-Report-Distribution.pdf)
 
-### Disturbance Before Agency: Establishing Ecological Baselines for Interpreting Forest Structural Anomalies
+### Disturbance Before Agency: Establishing Ecological Baselines  
 **Kegley, D.**  
-[PDF](/
-
+[Read Paper](publications/pdf/Holstonia-Ecology-2-Disturbance-Before-Agency.pdf) 
+  
+  
 ## Genesis (Hypothesis Space)
 
 ### Ecology and Population Modeling  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Genesis-1-Ecology-and-Population-Modeling.pdf)
+[Read Paper](/publications/pdf/Holstonia-Genesis-1-Ecology-and-Population-Modeling.pdf)
 
 ### Conservation Biology, Ethics, and Human Dimensions  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Genesis-2-Conservation-Biology-Ethics-and-Human-Dimensions.pdf)
+[Read Paper](/publications/pdf/Holstonia-Genesis-2-Conservation-Biology-Ethics-and-Human-Dimensions.pdf)
 
 ### Evolutionary Scenarios for a Relict Homo Species  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Genesis-3-Evolutionary-Scenarios-for-a-Relict-Homo-Species.pdf)
+[Read Paper](/publications/pdf/Holstonia-Genesis-3-Evolutionary-Scenarios-for-a-Relict-Homo-Species.pdf)
 
 ### Cognition, Communication, and Cultural Complexity  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Genesis-4-Cognition-Communication-and-Cultural-Complexity.pdf)
+[Read Paper](/publications/pdf/Holstonia-Genesis-4-Cognition-Communication-and-Cultural-Complexity.pdf)
 
 ### Fossil Absence and Preservation Bias  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Genesis-5-Fossil-Absence-and-Preservation-Bias.pdf)
+[Read Paper](/publications/pdf/Holstonia-Genesis-5-Fossil-Absence-and-Preservation-Bias.pdf)
 
 ### Behavioral and Ecological Coherence  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Genesis-6-Behavioral-and-Ecological-Coherence.pdf)
+[Read Paper](/publications/pdf/Holstonia-Genesis-6-Behavioral-and-Ecological-Coherence.pdf)
 
 ### Ethological Coherence  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Genesis-7-Ethological-Coherence.pdf)
+[Read Paper](/publications/pdf/Holstonia-Genesis-7-Ethological-Coherence.pdf)
 
 ### Genomic, Forensic, and eDNA Approaches  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Genesis-8-Genomic-Forensic-and-eDNA-Approaches.pdf)
+[Read Paper](/publications/pdf/Holstonia-Genesis-8-Genomic-Forensic-and-eDNA-Approaches.pdf)
 
 ### State of the Scientific Field  
 **Kegley, D.**  
-[PDF](/publications/pdf/Holstonia-Genesis-9-State-of-the-Scientific-Field.pdf)
+[Read Paper](/publications/pdf/Holstonia-Genesis-9-State-of-the-Scientific-Field.pdf)
 
 
 ## How to Cite These Papers
