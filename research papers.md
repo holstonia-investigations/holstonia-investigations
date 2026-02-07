@@ -6,6 +6,7 @@ description: "A structured corpus of research papers examining anomalous biologi
 keywords: "Bigfoot research, anomalous biology, detection theory, field methodology, observer science, ecological inference, relict hominin, Holstonia"
 author: "Daniel H. Kegley"
 ---
+<!-- debug: {{ page.title }} | {{ page.description }} -->
 ## Research Series
 
 Holstonia Bigfoot Investigations is an independent research program examining anomalous biological reports through structured scientific frameworks.
