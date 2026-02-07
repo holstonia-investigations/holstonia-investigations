@@ -172,7 +172,8 @@ Models roadside sightings through the lens of detection geometry.
 ### <a href="/publications/pdf/Holstonia-Methods-9-Roads-as-Structured-Survey-Instruments.pdf" target="_blank" rel="noopener"><strong>Roads as Structured Survey Instruments</strong></a>  
 Formalizes road networks as scalable observational infrastructure.
 
-
+### <a href="/publications/pdf/Holstonia-Methods-10-Detection-Non-Detection-and-Conditions-of-Observability.pdf" target="_blank" rel="noopener"><strong>Detection, Non-Detection, and Conditions of Observability</strong></a>  
+Examines the environmental and perceptual conditions that govern when biological presence becomes observable, clarifying the analytical relationship between detection and absence.
 
 ## Evidence
 
@@ -234,41 +235,34 @@ Prioritizes environmental disruption before behavioral inference.
 ## Genesis (Hypothesis Space)
 
 ### <a href="/publications/pdf/Holstonia-Genesis-1-Ecology-and-Population-Modeling.pdf" target="_blank" rel="noopener"><strong>Ecology and Population Modeling</strong></a>  
-  
 Explores demographic feasibility within constrained habitats.
 
 ### <a href="/publications/pdf/Holstonia-Genesis-2-Conservation-Biology-Ethics-and-Human-Dimensions.pdf" target="_blank" rel="noopener"><strong>Conservation Biology, Ethics, and Human Dimensions</strong></a>  
-  
 Considers stewardship implications under discovery scenarios.
 
 ### <a href="/publications/pdf/Holstonia-Genesis-3-Evolutionary-Scenarios-for-a-Relict-Homo-Species.pdf" target="_blank" rel="noopener"><strong>Evolutionary Scenarios for a Relict Homo Species</strong></a>  
-  
 Evaluates plausible evolutionary pathways.
 
 ### <a href="/publications/pdf/Holstonia-Genesis-4-Cognition-Communication-and-Cultural-Complexity.pdf" target="_blank" rel="noopener"><strong>Cognition, Communication, and Cultural Complexity</strong></a>  
-  
 Examines the cognitive implications of a relict hominin.
 
 ### <a href="/publications/pdf/Holstonia-Genesis-5-Fossil-Absence-and-Preservation-Bias.pdf" target="_blank" rel="noopener"><strong>Fossil Absence and Preservation Bias</strong></a>  
-  
 Addresses taphonomic constraints on expected remains.
 
 ### <a href="/publications/pdf/Holstonia-Genesis-6-Behavioral-and-Ecological-Coherence.pdf" target="_blank" rel="noopener"><strong>Behavioral and Ecological Coherence</strong></a>  
-  
 Tests whether reported traits form a stable ecological pattern.
 
 ### <a href="/publications/pdf/Holstonia-Genesis-7-Ethological-Coherence.pdf" target="_blank" rel="noopener"><strong>Ethological Coherence</strong></a>  
-  
 Evaluates behavioral consistency across the report corpus.
 
 ### <a href="/publications/pdf/Holstonia-Genesis-8-Genomic-Forensic-and-eDNA-Approaches.pdf" target="_blank" rel="noopener"><strong>Genomic, Forensic, and eDNA Approaches</strong></a>  
-  
 Surveys molecular pathways capable of resolving the question.
 
 ### <a href="/publications/pdf/Holstonia-Genesis-9-State-of-the-Scientific-Field.pdf" target="_blank" rel="noopener"><strong>State of the Scientific Field</strong></a>  
-  
 Maps the current research landscape and its constraints.
 
+### <a href="/publications/pdf/Holstonia-Genesis-10-After-Confirmation-Historical-Precedent-First-Contact-and-Ethical-Governance.pdf" target="_blank" rel="noopener"><strong>After Confirmation: Historical Precedent, First Contact, and Ethical Governance</strong></a>  
+Explores the institutional, ethical, and historical frameworks that would guide responsible response following the confirmation of a relict hominin.
 
 
 ## How to Cite These Papers
