@@ -8,33 +8,27 @@
       {% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}
     </title>
 
-    {% if page.description %}
-  <meta name="description" content="{{ page.description | escape }}">
-{% elsif site.description %}
-  <meta name="description" content="{{ site.description | escape }}">
-{% endif %}
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
 
-{% if page.keywords %}
-  <meta name="keywords" content="{{ page.keywords | escape }}">
-{% endif %}
+    {% if page.keywords %}
+      <meta name="keywords" content="{{ page.keywords | escape }}">
+    {% endif %}
 
-{% if page.author %}
-  <meta name="author" content="{{ page.author | escape }}">
-{% endif %}
-    
+    {% if page.author %}
+      <meta name="author" content="{{ page.author | escape }}">
+    {% endif %}
+
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/site-nav.css" | relative_url }}">
 
     <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YX0F9RKFC8"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YX0F9RKFC8', { 'anonymize_ip': true });
-</script>
-  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YX0F9RKFC8"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YX0F9RKFC8', { 'anonymize_ip': true });
+    </script>
   </head>
 
   <body>
@@ -49,15 +43,16 @@
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <nav class="site-nav" aria-label="Primary">
-  <a href="/about">About &amp; Scope</a>
-  <a href="/methods">Methods &amp; Framework</a>
-  <a href="/research">Research Papers</a>
-  <a href="/glossary">Glossary</a>
-  <a href="/reference-library">Reference Library</a>
-  <a href="/media-faq">Media &amp; FAQ</a>
-  <a href="/contact">Contact</a>
-  <a href="/changelog">Changelog &amp; Updates</a>
-</nav>
+          <a href="/about">About &amp; Scope</a>
+          <a href="/methods">Methods &amp; Framework</a>
+          <a href="/research">Research Papers</a>
+          <a href="/glossary">Glossary</a>
+          <a href="/reference-library">Reference Library</a>
+          <a href="/media-faq">Media &amp; FAQ</a>
+          <a href="/contact">Contact</a>
+          <a href="/changelog">Changelog &amp; Updates</a>
+        </nav>
+
         {{ content }}
       </div>
     </main>
