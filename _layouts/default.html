@@ -18,6 +18,19 @@
       <meta name="author" content="{{ page.author | escape }}">
     {% endif %}
 
+    {% if page.url != "/" %}
+<nav class="breadcrumbs">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  {% if page.categories %}
+    {% for category in page.categories %}
+      › <a href="{{ '/' | append: category | append: '/' | relative_url }}">{{ category | replace: '-', ' ' | capitalize }}</a>
+    {% endfor %}
+  {% endif %}
+  › {{ page.title }}
+</nav>
+{% endif %}
+    
+
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/site-nav.css" | relative_url }}">
 
