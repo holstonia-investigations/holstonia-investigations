@@ -35,7 +35,7 @@ Researchers are encouraged to replicate methods and challenge conclusions.
 
 ---
 
-##
+
 ## Foundations
 Establishes the epistemic posture, evidentiary limits, and scientific framing required for responsible analysis under conditions of uncertainty.
 
