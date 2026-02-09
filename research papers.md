@@ -7,18 +7,15 @@ keywords: "Bigfoot research, anomalous biology, detection theory, field methodol
 author: "Daniel H. Kegley"
 ---
 
-## Research Series
+### Holstonia Research Series — Established 2025 ###
 
-Holstonia Bigfoot Investigations is an independent research program examining anomalous biological reports through structured scientific frameworks.
+Holstonia Bigfoot Investigations is an independent research program examining anomalous biological reports through structured scientific frameworks. Holstonia Investigations does not promise discovery or validation. It promises disciplined inquiry, ethical restraint, and methodological transparency.
 
 The papers presented here develop the methodological, ecological, perceptual, and inferential foundations necessary for responsible analysis under conditions of persistent uncertainty. Together, they form a coherent research series rather than isolated essays.
 
 All publications are released as archival PDF/A documents to support long-term accessibility, stable citation, and scholarly use.
 
----
-
-**Holstonia Research Series — Established 2026**
-
+ ---
 
 ### Domain Map
 
@@ -33,101 +30,14 @@ The Holstonia research corpus is organized across six conceptual domains:
 
 Readers new to the project are encouraged to begin with the **Foundations**, where the intellectual posture guiding this work is defined. Others may enter through any domain.
 
----
-
-### Foundations  
-*Establishing the intellectual and analytical groundwork required for responsible inquiry.*
-
-These papers clarify the philosophical, ecological, and methodological conditions necessary before candidate explanations are considered.
-
-Topics include:
-
-- philosophy of science and structured uncertainty  
-- report analysis frameworks  
-- interpretive constraints  
-- evidentiary ceilings  
-- ethical boundaries  
-- exit criteria for research programs  
-
----
-
-### Methods  
-*Defining how anomalous claims can be studied under real-world conditions.*
-Before a field can interpret its observations, it must first understand the instruments through which observation occurs.
-These papers describe the operational practices of the Holstonia framework.
-
-Topics include:
-
-- field documentation standards  
-- observer-effort modeling  
-- data transparency  
-- acoustic and track analysis  
-- instrumentation strategy  
-- citizen science integration  
-
----
-
-### Evidence  
-*Assessing the reliability, limits, and interpretive risks of reported data.*
-
-These papers examine the strengths and constraints of the primary modalities through which anomalous biological claims are encountered.
-
-Topics include:
-
-- audio analysis  
-- track morphology  
-- photographic and video interpretation  
-- percussive reports  
-- consumer recording technologies  
-- gait comparison  
-
----
-
-### Perception, Cognition, and Cultural Transmission  
-*Understanding how human interpretation shapes encounter reports.*
-
-These studies examine the psychological and cultural processes that influence what is perceived, remembered, and communicated.
-
-Topics include:
-
-- narrative framing  
-- prior exposure  
-- misidentification models  
-- hoaxing as structured behavior  
-- paranormal attribution  
-- information dynamics  
-
----
-
-### Ecology  
-*Identifying landscape-level structure within report distributions.*
-
-This domain examines terrain convergence, spatial clustering, and environmental patterning that may shape encounter frequency.
-
----
-
-### Genesis  
-*Exploring the biological hypothesis space under explicit scientific constraints.*
-
-These papers examine the evolutionary, ecological, genomic, and behavioral coherence of a putative relict hominin hypothesis while remaining anchored to methodological discipline.
-
----
-
-## Research Philosophy
-
-Holstonia Investigations does not promise discovery or validation.  
-It promises disciplined inquiry, ethical restraint, and methodological transparency.
-
----
-
-## Citation & Use
-
-Holstonia papers may be cited or shared with attribution.  
+--- 
 Researchers are encouraged to replicate methods and challenge conclusions.
 
 ---
 
+##
 ## Foundations
+Establishes the epistemic posture, evidentiary limits, and scientific framing required for responsible analysis under conditions of uncertainty.
 
 ### <a href="/publications/pdf/Holstonia-Foundations-1-Anomalous-Biological-Claims-as-a-Scientific-Problem.pdf" target="_blank" rel="noopener"><strong>Anomalous Biological Claims as a Scientific Problem</strong></a>  
 Defines anomalous biological reports as a tractable scientific question rather than a folkloric one.
@@ -143,7 +53,10 @@ Articulates procedural norms for conducting disciplined inquiry under uncertaint
 
 
 
+
+##
 ## Methods
+Develops the analytical tools, detection frameworks, and modeling strategies necessary for extracting signal from structurally constrained datasets.
 
 ### <a href="/publications/pdf/Holstonia-Methods-1-Non-Detection-in-Trail-Camera-Surveys.pdf" target="_blank" rel="noopener"><strong>Non-Detection in Trail-Camera Surveys</strong></a>  
 Interprets repeated non-detections as analytically meaningful rather than null outcomes.
@@ -175,7 +88,10 @@ Formalizes road networks as scalable observational infrastructure.
 ### <a href="/publications/pdf/Holstonia-Methods-10-Detection-Non-Detection-and-Conditions-of-Observability.pdf" target="_blank" rel="noopener"><strong>Detection, Non-Detection, and Conditions of Observability</strong></a>  
 Examines the environmental and perceptual conditions that govern when biological presence becomes observable, clarifying the analytical relationship between detection and absence.
 
+
+##
 ## Evidence
+Examines physical, acoustic, and observational materials through structured analytical frameworks to evaluate their probative value under conditions of uncertainty.
 
 ### <a href="/publications/pdf/Holstonia-Evidence-1-Comparative-Gait-Analysis.pdf" target="_blank" rel="noopener"><strong>Comparative Gait Analysis</strong></a>  
 Evaluates locomotion claims against known biomechanical patterns.
@@ -197,7 +113,10 @@ Evaluates visual media through the lens of evidentiary reliability.
 
 
 
+
+##
 ## Perception, Cognition, and Cultural Transmission
+Investigates observer processes, cognitive filters, and conditions influencing how anomalous events are experienced and reported.
 
 ### <a href="/publications/pdf/Holstonia-Perception-1-Non-Encounters-as-Data.pdf" target="_blank" rel="noopener"><strong>Non-Encounters as Data</strong></a>  
 Reframes absence of experience as analytically informative.
@@ -222,7 +141,10 @@ Differentiates observer capability as a variable in evidentiary weight.
 
 
 
+
+##
 ## Ecology
+Develops the analytical tools, detection frameworks, and modeling strategies necessary for extracting signal from structurally constrained datasets.
 
 ### <a href="/publications/pdf/Holstonia-Ecology-1-Terrain-Convergence-and-Report-Distribution.pdf" target="_blank" rel="noopener"><strong>Terrain Convergence and Report Distribution in the Holston Region</strong></a>  
 Links landscape structure to spatial clustering of reports.
@@ -232,7 +154,9 @@ Prioritizes environmental disruption before behavioral inference.
 
 
 
+##
 ## Genesis (Hypothesis Space)
+Examines the conceptual origins and early theoretical boundaries of Holstonia while exploring the historical, ethical, and governance implications that would accompany recognition of a previously undocumented hominin.
 
 ### <a href="/publications/pdf/Holstonia-Genesis-1-Ecology-and-Population-Modeling.pdf" target="_blank" rel="noopener"><strong>Ecology and Population Modeling</strong></a>  
 Explores demographic feasibility within constrained habitats.
