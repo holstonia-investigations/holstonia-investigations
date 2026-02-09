@@ -18,15 +18,7 @@
       <meta name="author" content="{{ page.author | escape }}">
     {% endif %}
 
-    {% if page.url != "/" %}
-<nav class="breadcrumbs">
-  <a href="{{ '/' | relative_url }}">Home</a>
-  {% if page.categories %}
-    {% for category in page.categories %}
-      › <a href="{{ '/' | append: category | append: '/' | relative_url }}">{{ category | replace: '-', ' ' | capitalize }}</a>
-    {% endfor %}
-  {% endif %}
-  › {{ page.title }}
+     › {{ page.title }}
 </nav>
 {% endif %}
     
@@ -66,7 +58,14 @@
           <a href="/contact">Contact</a>
           <a href="/changelog">Changelog &amp; Updates</a>
         </nav>
-
+  {% if page.url != "/" %}
+<nav class="breadcrumbs">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  {% if page.categories %}
+    {% for category in page.categories %}
+      › <a href="{{ '/' | append: category | append: '/' | relative_url }}">{{ category | replace: '-', ' ' | capitalize }}</a>
+    {% endfor %}
+  {% endif %}
         {{ content }}
       </div>
     </main>
