@@ -51,7 +51,8 @@ Establishes disconfirmation standards necessary for scientific legitimacy.
 ### <a href="/publications/pdf/Holstonia-Foundations-4-Doing-Research-Within-the-Holstonia-Framework.pdf" target="_blank" rel="noopener"><strong>Doing Research Within the Holstonia Framework</strong></a>  
 Articulates procedural norms for conducting disciplined inquiry under uncertainty.
 
-
+### <a href="/publications/pdf/Holstonia-Foundations-5-Government-Records-and-Institutional-Responses-to-Anomalous-Biological-Reports.pdf" target="_blank" rel="noopener"><strong>Government Records and Institutional Responses to Anomalous Biological Reports</strong></a>  
+Surveys official documents and agency reactions to anomalous biological claims, demonstrating that institutional awareness has historically preceded scientific resolution.
 
 
 ##
@@ -87,6 +88,21 @@ Formalizes road networks as scalable observational infrastructure.
 
 ### <a href="/publications/pdf/Holstonia-Methods-10-Detection-Non-Detection-and-Conditions-of-Observability.pdf" target="_blank" rel="noopener"><strong>Detection, Non-Detection, and Conditions of Observability</strong></a>  
 Examines the environmental and perceptual conditions that govern when biological presence becomes observable, clarifying the analytical relationship between detection and absence.
+
+### <a href="/publications/pdf/Holstonia-Methods-11-Geographic-Patterning-Across-Four-Reports-of-Anomalous-Encounters-in-Southwest-Virginia.pdf" target="_blank" rel="noopener"><strong>Geographic Patterning Across Four Reports of Anomalous Encounters in Southwest Virginia</strong></a>  
+Examines spatial relationships among four regional reports to evaluate whether localized clustering may indicate structured environmental or observational conditions rather than random distribution.
+
+### <a href="/publications/pdf/Holstonia-Methods-12-Edge-Environments-as-Detection-Amplifiers-in-Anomalous-Biological-Reports.pdf" target="_blank" rel="noopener"><strong>Edge Environments as Detection Amplifiers in Anomalous Biological Reports</strong></a>  
+Proposes that ecological transition zones enhance encounter probability by increasing visibility, contrast, and observer presence, positioning edge habitats as analytically significant detection environments.
+
+### <a href="/publications/pdf/Holstonia-Methods-13-Holstonia-Image-Differential-Review-A-Structured-Methodology.pdf" target="_blank" rel="noopener"><strong>Holstonia Image Differential Review: A Structured Methodology</strong></a>  
+Introduces a disciplined comparative framework for evaluating anomalous imagery through differential analysis, emphasizing falsification pathways, interpretive restraint, and repeatable review procedures.
+
+### <a href="/publications/pdf/Holstonia-Methods-14-Modeling-Pattern-Emergence-Under-Conditions-of-Structured-Uncertainty.pdf" target="_blank" rel="noopener"><strong>Modeling Pattern Emergence Under Conditions of Structured Uncertainty</strong></a>  
+Develops a probabilistic approach to understanding how meaningful patterns may arise within noisy datasets without presupposing species confirmation.
+
+### <a href="/publications/pdf/Holstonia-Methods-15-Signal-Noise-and-Analytical-Readiness-A-Metadata-Audit-of-Opportunistic-Encounter-Datasets.pdf" target="_blank" rel="noopener"><strong>Signal, Noise, and Analytical Readiness: A Metadata Audit of Opportunistic Encounter Datasets</strong></a>  
+Evaluates the structural limitations of opportunistic report corpora and assesses the degree to which current datasets support reliable signal detection.
 
 
 ##
@@ -152,7 +168,8 @@ Links landscape structure to spatial clustering of reports.
 ### <a href="/publications/pdf/Holstonia-Ecology-2-Disturbance-Before-Agency.pdf" target="_blank" rel="noopener"><strong>Disturbance Before Agency: Establishing Ecological Baselines</strong></a>  
 Prioritizes environmental disruption before behavioral inference.
 
-
+### <a href="/publications/pdf/Holstonia-Ecology-3-Constraint-Ecology-Why-Recurring-Environmental-Structure-Matters-Before-Species-Confirmation.pdf" target="_blank" rel="noopener"><strong>Constraint Ecology: Why Recurring Environmental Structure Matters Before Species Confirmation</strong></a>  
+Argues that persistent environmental regularities may provide the earliest indicators of an undiscovered species, reframing absence of confirmation as an ecological modeling problem rather than a terminating condition.
 
 ##
 ## Genesis (Hypothesis Space)
