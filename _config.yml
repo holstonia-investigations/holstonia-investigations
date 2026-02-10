@@ -12,9 +12,10 @@ header_pages: []
 defaults:
   - scope:
       path: ""
-      type: "pages"
+      type: pages
     values:
-      layout: "default"
+      layout: default
+
 collections:
   papers:
     output: false
