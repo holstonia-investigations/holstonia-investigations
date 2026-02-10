@@ -7,11 +7,9 @@ permalink: /search.json
 {% assign docs = site.papers | where_exp: "p", "p.title != nil" %}
 {% for p in docs %}
   {
+    "id": {{ forloop.index0 }},
     "title": {{ p.title | jsonify }},
     "url": {{ p.url | relative_url | jsonify }},
-    "domain": {{ p.domain | default: "" | jsonify }},
-    "date": {{ p.date | default: "" | date_to_xmlschema | jsonify }},
-    "excerpt": {{ p.excerpt | strip_html | strip_newlines | jsonify }},
     "content": {{ p.content | strip_html | strip_newlines | jsonify }}
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}
