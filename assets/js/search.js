@@ -16,7 +16,7 @@
 
     idx = lunr(function () {
       this.ref("url");
-      this.field("title");
+      this.field("title", { boost: 10 });
       this.field("content");
 
       pages.forEach((p) => this.add(p));
