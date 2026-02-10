@@ -1,14 +1,16 @@
----
+ ---
 layout: none
+permalink: /search.json
 ---
 
 [
-{% for page in site.pages %}
-  {% unless page.url contains '.xml' or page.url contains '.json' %}
+{% assign docs = site.pages | where_exp: "p", "p.title" %}
+{% for p in docs %}
+  {% unless p.url contains ".json" or p.url contains ".xml" %}
   {
-    "title": {{ page.title | jsonify }},
-    "url": "{{ page.url | absolute_url }}",
-    "content": {{ page.content | strip_html | normalize_whitespace | jsonify }}
+    "title": {{ p.title | jsonify }},
+    "url": {{ p.url | absolute_url | jsonify }},
+    "content": {{ p.content | markdownify | strip_html | normalize_whitespace | jsonify }}
   }{% unless forloop.last %},{% endunless %}
   {% endunless %}
 {% endfor %}
