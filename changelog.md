@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Change Log
+title: Changelog & Updates
+search: false
 ---
 
 # Changelog & Updates
