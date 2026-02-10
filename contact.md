@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+search: false
 ---
 
 # Contact
