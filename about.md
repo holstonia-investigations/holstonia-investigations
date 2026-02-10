@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About & Scope
+search: false
 ---
 ---
 # About Holstonia Bigfoot Investigations
