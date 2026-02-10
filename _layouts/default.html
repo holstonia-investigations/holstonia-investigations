@@ -37,22 +37,22 @@
 </script>
 
 <!-- Structured Data: WebPage -->
+<!-- Structured Data: WebSite -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebPage",
-  "name": "{{ page.title | default: site.title | escape }}",
-  "url": "{{ page.url | absolute_url }}",
-  "description": "{{ page.description | default: site.description | strip_newlines | escape }}",
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "Holstonia Bigfoot Investigations",
-    "url": "https://holstonia-investigations.org"
-  },
-  "about": {
+  "@type": "WebSite",
+  "name": "Holstonia Bigfoot Investigations",
+  "url": "https://holstonia-investigations.org",
+  "publisher": {
     "@type": "Organization",
     "name": "Holstonia Bigfoot Investigations",
     "url": "https://holstonia-investigations.org"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://holstonia-investigations.org/search/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
   }
 }
 </script>
