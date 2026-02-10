@@ -2,6 +2,7 @@
 layout: default
 title: "Search the Holstonia Papers"
 permalink: /search/
+search: false
 ---
 
 # Search the Holstonia Corpus
