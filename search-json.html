@@ -5,19 +5,15 @@ permalink: /search.json
 
 [
 {% assign first = true %}
-{% for p in site.pages %}
-  {% if p.title and p.url and p.search != false %}
-    {% unless p.url contains '.xml' or p.url contains '.json' %}
-      {% unless p.url == '/search.json' %}
-        {% unless first %},{% endunless %}
-        {% assign first = false %}
-        {
-          "title": {{ p.title | jsonify }},
-          "url": {{ p.url | absolute_url | jsonify }},
-          "content": {{ p.content | markdownify | strip_html | normalize_whitespace | jsonify }}
-        }
-      {% endunless %}
-    {% endunless %}
+{% for doc in site.papers %}
+  {% if doc.title and doc.pdf and doc.search != false %}
+    {% unless first %},{% endunless %}
+    {% assign first = false %}
+    {
+      "title": {{ doc.title | jsonify }},
+      "url": {{ doc.pdf | absolute_url | jsonify }},
+      "content": {{ doc.content | markdownify | strip_html | normalize_whitespace | jsonify }}
+    }
   {% endif %}
 {% endfor %}
 ]
