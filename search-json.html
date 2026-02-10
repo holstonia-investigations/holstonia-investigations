@@ -3,17 +3,7 @@ layout: none
 permalink: /search.json
 ---
 
-[
-{% assign first = true %}
-{% for doc in site.papers %}
-  {% if doc.title and doc.pdf and doc.search != false %}
-    {% unless first %},{% endunless %}
-    {% assign first = false %}
-    {
-      "title": {{ doc.title | jsonify }},
-      "url": {{ doc.pdf | absolute_url | jsonify }},
-      "content": {{ doc.content | markdownify | strip_html | normalize_whitespace | jsonify }}
-    }
-  {% endif %}
-{% endfor %}
-]
+{
+  "papers_count": {{ site.papers | size }},
+  "collections": {{ site.collections | map: "label" | jsonify }}
+}
