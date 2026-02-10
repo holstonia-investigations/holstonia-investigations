@@ -21,6 +21,42 @@
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/site-nav.css" | relative_url }}">
 
+<!-- Structured Data: WebSite -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Holstonia Bigfoot Investigations",
+  "url": "https://holstonia-investigations.org",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Holstonia Bigfoot Investigations",
+    "url": "https://holstonia-investigations.org"
+  }
+}
+</script>
+
+<!-- Structured Data: WebPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "{{ page.title | default: site.title | escape }}",
+  "url": "{{ page.url | absolute_url }}",
+  "description": "{{ page.description | default: site.description | strip_newlines | escape }}",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Holstonia Bigfoot Investigations",
+    "url": "https://holstonia-investigations.org"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Holstonia Bigfoot Investigations",
+    "url": "https://holstonia-investigations.org"
+  }
+}
+</script>
+    
 <!-- Structured Data: Organization -->
 <script type="application/ld+json">
 {
