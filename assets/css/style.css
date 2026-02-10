@@ -1,4 +1,6 @@
 @import url("/assets/css/site-nav.css");
+
+/* Primary nav link separators */
 nav.site-nav a::after {
   content: " | ";
   opacity: 0.6;
@@ -7,17 +9,10 @@ nav.site-nav a::after {
 nav.site-nav a:last-child::after {
   content: "";
 }
-.breadcrumbs {
-  font-size: 0.85em;
-  color: #666;
-  margin-bottom: 1em;
-}
 
-.breadcrumbs a {
-  color: #666;
-  text-decoration: none;
-}
-
-.breadcrumbs a:hover {
-  text-decoration: underline;
+/* Subtle divider under nav to separate navigation from page content */
+nav.site-nav {
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 0.6rem;
+  margin-bottom: 1.4rem;
 }
