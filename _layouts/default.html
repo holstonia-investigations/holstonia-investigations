@@ -42,6 +42,7 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
+
         <nav class="site-nav" aria-label="Primary">
           <a href="{{ '/' | relative_url }}">Home</a>
           <a href="/about">About &amp; Scope</a>
@@ -54,21 +55,8 @@
           <a href="/changelog">Changelog &amp; Updates</a>
         </nav>
 
-        {% if page.url != "/" %}
-          <nav class="breadcrumbs" aria-label="Breadcrumb">
-            <a href="{{ '/' | relative_url }}">Home</a>
-            {% if page.categories %}
-              {% for category in page.categories %}
-                › <a href="{{ '/' | append: category | append: '/' | relative_url }}">{{ category | replace: '-', ' ' | capitalize }}</a>
-              {% endfor %}
-            {% endif %}
-            {% if page.title %}
-              › <span aria-current="page">{{ page.title }}</span>
-            {% endif %}
-          </nav>
-        {% endif %}
-
         {{ content }}
+
       </div>
     </main>
   </body>
