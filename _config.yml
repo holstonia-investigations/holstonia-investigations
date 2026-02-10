@@ -18,4 +18,5 @@ defaults:
 
 collections:
   papers:
-    output: false
+    output: true
+    permalink: /papers/:path/
