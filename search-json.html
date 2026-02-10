@@ -1,1 +1,19 @@
+---
+layout: none
+permalink: /search.json
+---
 
+[
+{% assign docs = site.pages
+  | where_exp: "p", "p.title"
+  | where_exp: "p", "p.url contains '.xml' == false"
+  | where_exp: "p", "p.url contains '.json' == false"
+%}
+{% for p in docs %}
+  {
+    "title": {{ p.title | jsonify }},
+    "url": {{ p.url | absolute_url | jsonify }},
+    "content": {{ p.content | markdownify | strip_html | normalize_whitespace | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
