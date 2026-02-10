@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Search the Holstonia Corpus"
+title: "Search the Holstonia Papers"
 permalink: /search/
 ---
 
