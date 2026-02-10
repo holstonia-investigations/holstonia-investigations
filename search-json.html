@@ -6,18 +6,16 @@ permalink: /search.json
 [
 {% assign first = true %}
 {% for p in site.pages %}
-  {% if p.title and p.url %}
+  {% if p.title and p.url and p.search != false %}
     {% unless p.url contains '.xml' or p.url contains '.json' %}
-      {% unless p.url contains '/assets/' or p.url contains '/publications/' %}
-        {% unless p.url == '/search.json' %}
-          {% unless first %},{% endunless %}
-          {% assign first = false %}
-          {
-            "title": {{ p.title | jsonify }},
-            "url": {{ p.url | absolute_url | jsonify }},
-            "content": {{ p.content | markdownify | strip_html | normalize_whitespace | jsonify }}
-          }
-        {% endunless %}
+      {% unless p.url == '/search.json' %}
+        {% unless first %},{% endunless %}
+        {% assign first = false %}
+        {
+          "title": {{ p.title | jsonify }},
+          "url": {{ p.url | absolute_url | jsonify }},
+          "content": {{ p.content | markdownify | strip_html | normalize_whitespace | jsonify }}
+        }
       {% endunless %}
     {% endunless %}
   {% endif %}
