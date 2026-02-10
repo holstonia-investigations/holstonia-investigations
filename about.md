@@ -59,6 +59,14 @@ Extraordinary interpretations are neither assumed nor dismissed a priori.
 
 ---
 
+---
+
+## Background
+
+For readers interested in the professional and field experiences that ultimately converged in this work, see:
+
+**→ [Convergence — how a lifetime of observation met its subject](/origin/)**
+
 ## Authorship and Independence
 
 All materials published under Holstonia Bigfoot Investigations are authored
