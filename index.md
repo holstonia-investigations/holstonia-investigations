@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Index
 ---
 <div class="site-logo">
   <img src="/assets/images/holstonia-logo.png"
