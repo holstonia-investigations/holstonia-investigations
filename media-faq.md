@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Media and FAQ
+title: Media & FAQ
+search: false
 ---
 
 # Media & Frequently Asked Questions
