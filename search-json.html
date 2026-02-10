@@ -11,7 +11,7 @@ permalink: /search.json
 %}
 {% for p in docs %}
   {
-    "title": {{ p.title | jsonify }},
+    "title": { p.title | jsonify },
     "url": { p.url | absolute_url | jsonify },
     "content": {{ p.content | markdownify | strip_html | normalize_whitespace | jsonify }}
   }{% unless forloop.last %},{% endunless %}
