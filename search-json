@@ -4,7 +4,7 @@ permalink: /search.json
 ---
 
 [
-{% assign docs = site.papers | where_exp: "p", "p.title != nil" %}
+{% assign docs = site.papers %}
 {% for p in docs %}
   {
     "id": {{ forloop.index0 }},
