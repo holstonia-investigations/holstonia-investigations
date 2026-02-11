@@ -1,0 +1,5 @@
+---
+title: "M14 TEST"
+pdf: "/publications/Holstonia-Methods-14-Modeling-Pattern-Emergence-Under-Conditions-of-Structured-Uncertainty.pdf"
+search: true
+---
