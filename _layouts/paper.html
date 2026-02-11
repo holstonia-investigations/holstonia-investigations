@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+
+    {% if page.pdf %}
+      <p>
+        <a href="{{ page.pdf | relative_url }}" target="_blank" rel="noopener">
+          <strong>Download PDF</strong>
+        </a>
+      </p>
+    {% endif %}
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
