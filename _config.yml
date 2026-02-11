@@ -17,6 +17,12 @@ defaults:
     values:
       layout: default
 
+  - scope:
+      path: ""
+      type: papers
+    values:
+      layout: paper
+
 collections:
   papers:
     output: true
