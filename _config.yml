@@ -23,3 +23,5 @@ collections:
     permalink: /papers/:name/
 
     collections_dir: ""
+
+encoding: utf-8
