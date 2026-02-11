@@ -10,6 +10,7 @@ permalink: /search.json
     "id": {{ forloop.index0 }},
     "title": {{ p.title | jsonify }},
     "url": {{ p.url | relative_url | jsonify }},
+    "pdf": {{ p.pdf | relative_url | jsonify }},
     "content": {{ p.content | strip_html | strip_newlines | jsonify }}
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}
