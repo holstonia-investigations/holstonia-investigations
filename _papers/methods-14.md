@@ -5,7 +5,7 @@ search: true
 permalink: /papers/methods-14/
 ---
 Scientific inference is traditionally grounded in data environments characterized by 
-instrumental reliability, repeatability, and bounded observational error. Yet certain 
+instrumental reliability, repeatability, and bounded observational error. Yet certain  
 domains generate reports that are individually uncertain while collectively recurrent. These 
 datasets occupy an analytically ambiguous territory between stochastic noise and 
 confirmed signal, and consequently are often excluded from formal modeling. 
