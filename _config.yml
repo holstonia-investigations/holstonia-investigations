@@ -21,3 +21,5 @@ collections:
   papers:
     output: true
     permalink: /papers/:name/
+
+    collections_dir: ""
