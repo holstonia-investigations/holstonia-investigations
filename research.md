@@ -193,7 +193,7 @@ Addresses taphonomic constraints on expected remains.
 ### <a href="/publications/pdf/Holstonia-Genesis-6-Behavioral-and-Ecological-Coherence.pdf" target="_blank" rel="noopener"><strong>Behavioral and Ecological Coherence</strong></a>  
 Tests whether reported traits form a stable ecological pattern.
 
-### <a href="/publications/pdf/Holstonia-Genesis-7-Ethological-Coherence.pdf" target="_blank" rel="noopener"><strong>Ethological Coherence</strong></a>  
+### <a href="/publications/pdf/Holstonia-Genesis-7-EthologicalCoherenceandthePutativeRelictHomoSpecies.pdf" target="_blank" rel="noopener"><strong>Ethological Coherence</strong></a>  
 Evaluates behavioral consistency across the report corpus.
 
 ### <a href="/publications/pdf/Holstonia-Genesis-8-Genomic-Forensic-and-eDNA-Approaches.pdf" target="_blank" rel="noopener"><strong>Genomic, Forensic, and eDNA Approaches</strong></a>  
