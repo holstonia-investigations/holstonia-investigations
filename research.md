@@ -80,7 +80,7 @@ Positions observer calibration as foundational to evidentiary stability.
 ### <a href="/publications/pdf/Holstonia-Methods-7-Calibrating-Observers-in-Practice.pdf" target="_blank" rel="noopener"><strong>Calibrating Observers in Practice</strong></a>  
 Operationalizes observer training into repeatable field procedures.
 
-### <a href="/publications/pdf/Holstonia-Methods-8-Visibility%20Under%20Constraint%20Road%20Crossings.pdf" target="_blank" rel="noopener"><strong>Visibility Under Constraint: Road Crossings</strong></a>  
+### <a href="/publications/pdf/Holstonia-Methods-8-Visibility-Under-Constraint:Road-Crossings.pdf" target="_blank" rel="noopener"><strong>Visibility Under Constraint: Road Crossings</strong></a>  
 Models roadside sightings through the lens of detection geometry.
 
 ### <a href="/publications/pdf/Holstonia-Methods-9-Roads-as-Structured-Survey-Instruments.pdf" target="_blank" rel="noopener"><strong>Roads as Structured Survey Instruments</strong></a>  
