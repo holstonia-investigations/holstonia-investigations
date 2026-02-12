@@ -1,0 +1,15 @@
+﻿# Local tooling
+tools/
+
+# Jekyll build artifacts
+_site/
+.bundle/
+vendor/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor noise
+.vscode/
+.idea/
