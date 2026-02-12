@@ -77,7 +77,7 @@ Explores how sustained absence can inform ecological reasoning.
 ### <a href="/publications/pdf/Holstonia-Methods-6-The-Calibrated-Observer.pdf" target="_blank" rel="noopener"><strong>The Calibrated Observer</strong></a>  
 Positions observer calibration as foundational to evidentiary stability.
 
-### <a href="/publications/pdf/Holstonia-Methods-7-Calibrating%20Observers%20in%20Practice.pdf" target="_blank" rel="noopener"><strong>Calibrating Observers in Practice</strong></a>  
+### <a href="/publications/pdf/Holstonia-Methods-7-Calibrating-Observers-in-Practice.pdf" target="_blank" rel="noopener"><strong>Calibrating Observers in Practice</strong></a>  
 Operationalizes observer training into repeatable field procedures.
 
 ### <a href="/publications/pdf/Holstonia-Methods-8-Visibility%20Under%20Constraint%20Road%20Crossings.pdf" target="_blank" rel="noopener"><strong>Visibility Under Constraint: Road Crossings</strong></a>  
