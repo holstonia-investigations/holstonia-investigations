@@ -10,8 +10,7 @@ search: false
 focused on the systematic, method-driven evaluation of anomalous biological reports
 commonly associated with the term “Bigfoot.”
 
-The project approaches these reports within a **provisional relict hominin framework**
-for analytical convenience, without assuming the existence, non-existence,
+The project approaches these reports without assuming the existence, non-existence,
 or ontological status of any specific organism. The emphasis throughout is on
 method, evidence quality, and inference rather than belief or advocacy.
 ---
