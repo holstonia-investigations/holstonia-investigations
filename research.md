@@ -162,7 +162,7 @@ Differentiates observer capability as a variable in evidentiary weight.
 ## Ecology
 Develops the analytical tools, detection frameworks, and modeling strategies necessary for extracting signal from structurally constrained datasets.
 
-### <a href="/publications/pdf/Holstonia-Ecology-1-Terrain-Convergence-And-Report-Distribution-In-The-Holstonia-Region.pdf" target="_blank" rel="noopener"><strong>Terrain Convergence and Report Distribution in the Holston Region</strong></a> 
+### [**Terrain Convergence and Report Distribution in the Holston Region**](/publications/pdf/Holstonia-Ecology-1-Terrain-Convergence-And-Report-Distribution-In-The-Holstonia-Region.pdf){:target="_blank" rel="noopener"} 
 Links landscape structure to spatial clustering of reports.
 
 ### <a href="/publications/pdf/Holstonia-Ecology-2-Disturbance-Before-Agency.pdf" target="_blank" rel="noopener"><strong>Disturbance Before Agency: Establishing Ecological Baselines</strong></a>  
