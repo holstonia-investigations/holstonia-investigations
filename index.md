@@ -43,7 +43,7 @@ Instead, Holstonia focuses on:
 
 The goal is not conclusion, but clarity.
 
-Holstonia is an ongoing research program; new analytical papers are added as the framework develops. The Holstonia Research Series currently includes 30+ analytical papers.
+Holstonia is an ongoing research program; new analytical papers are added as the framework develops. The Holstonia Research Series currently includes 45+ analytical papers.
 ---
 
 ## What Holstonia Is Not
